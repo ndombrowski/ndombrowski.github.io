@@ -1,0 +1,21 @@
+
+---
+title: "Contact"
+about:
+  template: jolla
+  links:
+    - icon: twitter
+      text: Twitter
+      href: https://twitter.com/n_dombrowski
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/nina-dombrowski-8b6142243/
+    - icon: github
+      text: Github
+      href: https://github.com/ndombrowski
+
+---
+
+Feel free to contact me under: nina.dombrowski@nioz.nl
+
+

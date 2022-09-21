@@ -1,0 +1,11 @@
+Following instructions from:
+
+https://quarto.org/docs/websites/website-blog.html
+hosted on quarto.pup and uploaded with quarto render , followed by quarto publish
+
+hosted here: https://quartopub.com/sites/nina-dombrowski/myblog
+
+## posting
+
+blog posts are stored in the posts/ directory. 
+Each post has to have a folder, and inside this folder you need a index.qmd file. 

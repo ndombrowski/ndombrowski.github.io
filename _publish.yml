@@ -1,0 +1,7 @@
+- source: project
+  quarto-pub:
+    - id: 41083dbe-0424-450d-b12a-572cf463282e
+      url: 'https://quartopub.com/sites/nina-dombrowski/myblog'
+  netlify:
+    - id: ff64b9ab-cedb-4b05-9933-9718522aa4ad
+      url: 'https://nina-dombrowski.netlify.app'

@@ -1,0 +1,84 @@
+
+---
+title: "CV"
+about:
+  template: solana
+
+---
+
+## Education and training
+
+**2018 - current**
+
+Postdoctoral fellow at the Royal Netherlands Institute for Sea Research (NIOZ) in the Netherlands
+
+**2015 - 2018**
+
+Postdoctoral fellow at the Marine Science Institute in Port Aransas (UT Austin)
+
+**2012-2015**
+
+Graduate student at the Max-Planck Institute for Plant Breeding Research in Cologne, Germany
+
+Topic:    Structural and functional analysis of the root microbiome of Arabidopsis thaliana and relative species
+
+Link to my PhD Thesis (english), tba
+
+**2006-2011** 
+
+University student at the MLU Halle-Wittenberg in Halle, Germany
+
+Graduating as Diplom Biologist (equivalent to M.Sc.)
+Diploma thesis performed at the Leibniz Institute for Plant Biochemistry in Halle, Germany
+Topic:    Polysomal mRNA profiling of auxin responsive transcriptomes in different cell types of Arabidopsis thaliana
+
+
+## FUNDING
+
+**2017**
+
+JGI Community Science Program (CSP) Sequencing Grant
+
+**2012-2015**
+
+International Max Planck Research School IMPRS Fellowship
+
+
+
+
+## TEACHING & OUTREACH
+
+
+**2022**
+
+Lecturer at the 2 days metagenomics workshop as part of the Genome Biology and Genomics course at the University of Bristol
+
+Guest lecturer at the Evolutionary Genomics course series at Utrecht university
+
+
+**2021**
+
+Organized and lectured at a 10 week workshop series `Bioinformatics for marine biologists` aimed at undergraduate and graduate students at the Royal Netherlands Institute for Sea Research (NIOZ)
+
+**2019**
+
+TA'ed at a 2 day workshop `R for beginners` aimed at undergraduate to senior researchers at the Royal Netherlands Institute for Sea Research (NIOZ)
+
+Organized and lectured at a 10 week workshop series `Bioinformatics for marine biologists` aimed at undergraduate and graduate students at the Royal Netherlands Institute for Sea Research (NIOZ)
+
+**2017**
+
+‘Graduate School Roundtable (REU)’  at UT Austin Marine Science Institute -Panel-member
+
+Graduate class "Genomics in Ocean Science" at UT Austin Marine Science Institute - Guest lecturer
+
+**2016**
+
+Seminar series "Molecular biology" at UT Austin Marine Science Institute - Organizing committee & lecturer
+
+Workshop "ECOGEO 'Omics Training: Introduction to Environmental 'Omics using a Unix-based Virtual Machine" at U. Hawai‘i Mānoa - Lecturer. COURSE MATERIAL
+
+
+
+
+

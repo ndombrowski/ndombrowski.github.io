@@ -1,0 +1,27 @@
+project:
+  type: website
+
+website:
+  title: ""
+  navbar:
+    title: false
+    left:
+      - text: "Nina Dombrowski"
+        file: index.qmd
+    right:
+      - blog.qmd
+      - projects.qmd
+      - cv.qmd
+      - publications.qmd 
+      - contact.qmd
+      - icon: github
+        href: github.com/ndombrowski
+      - icon: twitter
+        href: https://twitter.com/n_dombrowski
+format:
+  html:
+    theme: flatly
+    css: styles.css
+
+
+
