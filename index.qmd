@@ -28,19 +28,3 @@ Microbes are important for every aspect on the world. Despite that we know very 
 I obtained my PhD studying microbial communities associated with plants and am now studying archaea in marine environments. To be able to do this work I developed a strong bioinformatic background and commonly work with BASH and R and recently added Python to my list of tools.
 
 **As part of my research career I am developing tutorials for my students and you can also find some material on courses I taught [here](https://github.com/ndombrowski).**
-
-### What I am currently working on:
-
-- How are microbial communities structured + how strong affect environmental driving cues the assembly of microbial communities?
-- How can we use OMICs to better understand the functional diversity encoded in microorganisms?
-- How can we use phylogenetic approaches to uncover the evolutionary drivers that allow microbes to adapt to different environments?
-- What is the genetic potential of microbes that take part in major nutrient cycles (i.e. fueling the carbon pump) and how is this potentially affected by environmental changes?
-
-### Where I come from:
-
-I did my PhD at the Max-Planck Institute for Plant Breeding Research in Cologne. I investigated the structure of rhizosphere and root-bacterial communities of *Arabis alpina* (using 16S rRNA amplicon sequencing) and investigated the effect of bacteria on plant-growth.
-
-Specifically, I asked:
-
-- How are bacterial communities affected by their surroundings/ what determines how bacterial communities assemble on plant roots (i.e. plant species, soil type, flowering time…)?
-- What is the effect of synthetic bacterial communities on plant growth?
