@@ -1,0 +1,93 @@
+[
+  {
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "Contact",
+    "section": "",
+    "text": "Feel free to contact me under: nina.dombrowski@nioz.nl"
+  },
+  {
+    "objectID": "posts/post-with-code/index.html",
+    "href": "posts/post-with-code/index.html",
+    "title": "Post With Code",
+    "section": "",
+    "text": "This is a post with executable code."
+  },
+  {
+    "objectID": "posts/welcome/index.html",
+    "href": "posts/welcome/index.html",
+    "title": "Welcome To My Blog",
+    "section": "",
+    "text": "Since this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "I am interested in gaining insights into the biology and evolution of archaea belonging to the DPANN superphylum, a group of archaea recently discovered using metagenomic approaches. Specifically, I am interested in:\n\n\nUnderstanding how diverse DPANN archaea are in marine environments\nTrying to identify the interaction partners of DPANN archaea using metagenomic approaches?\nFinding the position of DPANN in the archaeal tree of life and addressing the question, whether symbiosis evolved early in the archaeal domain?\n\n\n\n\n\nI am also investigating the microbial diversity and nutrient dependencies of microbes in the Black Sea.\n\n\nThe Black Sea is a stratified, anaerobic marine environment and as such provides extremely stable conditions. Using metagenomic approaches we want to compare microbial communities at different depths and\nUntangle the nutrient interdependencies of microbes in the water column and the sediment.\nPreliminary data suggests that DPANN archaea are extremely diverse and abundant in the Black Sea. Therefore, we will also use this as a study site to address some of the questions asked above."
+  },
+  {
+    "objectID": "projects.html#postdoc-at-the-msi",
+    "href": "projects.html#postdoc-at-the-msi",
+    "title": "Projects",
+    "section": "Postdoc at the MSI",
+    "text": "Postdoc at the MSI\n\nDuring my Postdoc at the Marine Science Institute (University of Texas) I reconstructed microbial genomes and resolved metabolic capabilities of microbes found in hydrothermal sediment vent sediments. Here, was looking at:\n\n\nHow diverse are microbial communities found in Guaymas Basin deep-sea hydrothermal vent sediments?\nWhat is the genetic, functional and metabolic potential encoded in bacteria genomes from these sediment communities?\nWhat pathways for anaerobic degradation of hydrocarbons are encoded in these genomes?\n\nRead more:\nGenomic insights into potential interdependencies in microbial hydrocarbon and nutrient cycling in hydrothermal sediments\n\n\n\n\nAdditionally, I identified hydrocarbon degradation pathways in uncultured bacteria from the Deep Water Horizon Oil Spill and asked:\n\n\nWhat were the hydrocarbon degrading bacteria that were present during the Deepwater Horizon oil spill\nWhat pathways do these bacteria employ for oil-degradation?\nWhat features can we find in their genomes that allow them quickly to adapt to a high oil input?\n\n\n\n\nRead more:\nReconstructing metabolic pathways of hydrocarbon-degrading bacteria from the Deepwater Horizon oil spill\nCan we harness bacteria to help clean up future oil spills?"
+  },
+  {
+    "objectID": "projects.html#previous-research",
+    "href": "projects.html#previous-research",
+    "title": "Projects",
+    "section": "Previous Research",
+    "text": "Previous Research\nI did my doctoral Research (2012-2015) at the Department of Plant and Microbe Interactions in Max-Planck-Institute for Plant Breeding Research in Cologne, Germany. Here, I worked on two main research topics:\n\nStructural and functional analysis of the bacterial root microbiota of Arabidopsis thaliana and relative species with the aim to understand:\n\n\nWhat is the structure of bacterial communities found in natural soil, rhizosphere and plant roots of Arabis alpina, Arabidopsis thaliana and Cardamine hirsuta?\nWhat are factors (i.e. environment, soil type, flowering, …) that shape the assembly of bacterial communities?\n\nRead more:\nRoot microbiota dynamics of perennial Arabis alpina are dependent on soil residence time but independent of flowering time\nQuantitative divergence of the bacterial root microbiota in Arabidopsis thaliana relatives\n\n\n\n\nInvestigate root-associated rhizobia and study their plant growth-promoting properties on Arabidopsis thaliana\n\n\nHow diverse is the Rhizobia population found on roots of Arabidopsis thaliana?\nWhat is the role of root-associated Rhizobia on plant growth?\nHow do Rhizobia affect the plant transcriptome?\n\nRead more:\n[Functional overlap of the Arabidopsis leaf and root microbiota]\nI did my undergraduate Research (2010-2011) at the Department of Molecular Signal Processing in Leibniz Institute for Plant Biochemistry in Halle, Germany and wrote my thesis on Ribosomal mRNA profiling of auxin-inducible genes in Arabidopsis thaliana. Here, I:\n\nEstablished of translating ribosomal affinity purification (TRAP) as new experimental technique in order to isolate cell-type specific mRNA as well as development of new cell-type-specific maker lines\nInvestigated of the effect of auxin application on the expression of marker genes in different root-cell types"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Nina Dombrowski",
+    "section": "",
+    "text": "Microbes are important for every aspect on the world. Despite that we know very little about some of them, since a large number of microbes can not be grown in the lab making it harder to study them. I am exactly interested in these little creatures using metagenomic and phylogenetic approaches. Specifically, I am interested in understanding the lifestyle of ultra-small archaea (DPANN), a specific group of microbes that have such small genomes that don’t allow them to live by themselves. Instead, they require a host to be able to grow and proliferate.\nI obtained my PhD studying microbial communities associated with plants and am now studying archaea in marine environments. To be able to do this work I developed a strong bioinformatic background and commonly work with BASH and R and recently added Python to my list of tools.\nAs part of my research career I am developing tutorials for my students and you can also find some material on courses I taught here.\n\nWhat I am currently working on:\n\nHow are microbial communities structured + how strong affect environmental driving cues the assembly of microbial communities?\nHow can we use OMICs to better understand the functional diversity encoded in microorganisms?\nHow can we use phylogenetic approaches to uncover the evolutionary drivers that allow microbes to adapt to different environments?\nWhat is the genetic potential of microbes that take part in major nutrient cycles (i.e. fueling the carbon pump) and how is this potentially affected by environmental changes?\n\n\n\nWhere I come from:\nI did my PhD at the Max-Planck Institute for Plant Breeding Research in Cologne. I investigated the structure of rhizosphere and root-bacterial communities of Arabis alpina (using 16S rRNA amplicon sequencing) and investigated the effect of bacteria on plant-growth.\nSpecifically, I asked:\n\nHow are bacterial communities affected by their surroundings/ what determines how bacterial communities assemble on plant roots (i.e. plant species, soil type, flowering time…)?\nWhat is the effect of synthetic bacterial communities on plant growth?"
+  },
+  {
+    "objectID": "publications.html",
+    "href": "publications.html",
+    "title": "Publications",
+    "section": "",
+    "text": "See also:"
+  },
+  {
+    "objectID": "publications.html#publications-by-date",
+    "href": "publications.html#publications-by-date",
+    "title": "Publications",
+    "section": "Publications by date",
+    "text": "Publications by date\n*shared first authors\n2022\nMoody ER, Mahendrarajah TA, Dombrowski N, Clark JW, Petitjean C, Offre P, et al. An estimate of the deepest branches of the tree of life from ancient vertically evolving genes. eLife 2022; 11: e66695. Link to paper\nKrause S, Gfrerer S, von Kügelgen A, Reuse C, Dombrowski N, Villanueva L, et al. The importance of biofilm formation for cultivation of a Micrarchaeon and its interactions with its Thermoplasmatales host. Nat Commun 2022; 13: 1735. Link to paper\nLangwig MV, De Anda V, Dombrowski N, Seitz KW, Rambo IM, Greening C, et al. Large-scale protein level comparison of Deltaproteobacteria reveals cohesive metabolic groups. ISME J 2022; 16: 307–320. Link to paper\n2021\nDe Anda V, Chen L-X, Dombrowski N, Hua Z-S, Jiang H-C, Banfield JF, et al. Brockarchaeota, a novel archaeal phylum with unique and versatile carbon cycling pathways. Nat Commun 2021; 12: 2404. Link to paper\nMayer T, Mari A, Almario J, Murillo-Roos M, Syed M. Abdullah H, Dombrowski N, et al. Obtaining deeper insights into microbiome diversity using a simple method to block host and nontargets in amplicon sequencing. Molecular Ecology Resources 2021; 21: 1952–1965. Link to paper\n2020\nDombrowski N, Williams TA, Sun J, Woodcroft BJ, Lee J-H, Minh BQ, Rinke C, Spang A Undinarchaeota illuminate the evolution of DPANN archaea. Nature Communications 2020. Link to paper\nBaker BJ, De Anda V, Seitz KW, Dombrowski N, Santoro AE, Lloyd KG. Diversity, ecology and evolution of Archaea. Nature Microbiology 2020; 1–14. Link to paper\nRambo IM, Dombrowski N, Constant L, Erdner D, Baker BJ. Metabolic relationships of uncultured bacteria associated with the microalgae Gambierdiscus. Environ Microbiol 2020; 22: 1764–1783. Link to paper\n2019\nSchwank, K, Bornemann TLV, Dombrowski N, Spang A, Banfield JF, Probst AJ. An archaeal symbiont-host association from the deep terrestrial subsurface. The ISME Journal 1 (2019). Link to paper\nSpang A, Stairs CW, Dombrowski N, Eme L, Lombard J, Caceres EF, et al. Proposal of the reverse flow model for the origin of the eukaryotic cell based on comparative analyses of Asgard archaeal metabolism. Nature Microbiology 2019; 1. Link to paper\nDombrowski N, Lee J-H, Williams TA, Offre P, Spang A. Genomic diversity, lifestyles and evolutionary origins of DPANN archaea. FEMS Microbiol Lett 2019; 366. Link to paper\nSeitz KW, Dombrowski N, Eme L, Spang A, Lombard J, Sieber JR, et al. Asgard archaea capable of anaerobic hydrocarbon cycling. Nature Communications 10, 1822 (2019). Link to paper\nSteen AD, Kevorkian RT, Bird JT, Dombrowski N, Baker BJ, Hagen SM, et al. (2019). Kinetics and Identities of Extracellular Peptidases in Subsurface Sediments of the White Oak River Estuary, North Carolina. Appl Env Micro 85(19): e00102-19 (2019) Link to paper\n2018\nDombrowski N, Teske AP, Baker BJ. Expansive microbial metabolic versatility and biodiversity in dynamic Guaymas Basin hydrothermal sediments. Nature Communications 2018; 9: 4999. Link to paper\nGarrido-Oter R, Nakano RT, Dombrowski N*, Ma K-W, McHardy AC, Schulze-Lefert P. Modular Traits of the Rhizobiales Root Microbiota and Their Evolutionary Relationship with Symbiotic Rhizobia. Cell Host & Microbe 2018; 24: 155-167.e5.Link to paper\nChen L-X, Méndez-García C, Dombrowski N, Servín-Garcidueñas LE, Eloe-Fadrosh EA, Fang B-Z, et al. (2017). Metabolic versatility of small archaea Micrarchaeota and Parvarchaeota. The ISME Journal. Link to paper\n2017\nHeijden MGA van der, Dombrowski N, Schlaeppi K. (2017). Continuum of root–fungal symbioses for plant nutrition. PNAS 201716329. Link to paper\nDombrowski N, Seitz KW, Teske AP and Baker, BJ. Genomic insights into potential interdependencies in microbial hydrocarbon and nutrient cycling in hydrothermal sediments. Microbiome 5, 106 (2017). Link to paper\nDombrowski N., Schlaeppi K., Bai Y., Agler M., Hacquard S., Kemen E., Wunder J., Coupland G. and Schulze-Lefert P.. Root microbiota dynamics of perennial Arabis alpina and root growth promoting activity of microbiota members. ISMEJ doi: 10.1038/ismej.2016.109 (2017). Link to paper\n2016\nDombrowski N., Donaho J., Teske A.P., Gutierrez T., Baker B.J.. Hydrocarbon degradation pathways in uncultured bacteria from the Deep Water Horizon Oil Spill. Nature Microbiology 16057 (2016). [Abstract] Link to paper\n2015\n­­Bai, Y., , Müller D., Srinvias G., Garrido-Oter R., Potthoff E., Rott M., Dombrowski N., Münch P., Spaepen S., Remus-Emserman M., Hüttel B., McHardy A., Vorhold J.A., Schulze-Lefert P., Pieterse C. M. J. . Functional overlap of the Arabidopsis leaf and root microbiota. Nature advance online publication, (2015). Link to paper\nZamioudis, C., Korteland, J., Van Pelt, J.A., van Hamersveld, M., Dombrowski, N., Bai, Y., Hanson, J., Van Verk, M.C., Ling, H.-Q., Schulze-Lefert, P. .  Rhizobacterial volatiles and photosynthesis-related signals coordinate MYB72 expression in Arabidopsis roots during onset of induced systemic resistance and iron-deficiency responses.  Plant J 84, 309–322 (2015). Link to paper\n2014\nSchlaeppi, K., Dombrowski, N., Oter, R. G., Themaat, E. V. L. van & Schulze-Lefert, P.  Quantitative divergence of the bacterial root microbiota in Arabidopsis thaliana relatives.   PNAS 111, 585–592 (2014). Link to paper"
+  },
+  {
+    "objectID": "cv.html",
+    "href": "cv.html",
+    "title": "CV",
+    "section": "",
+    "text": "2018 - current\nPostdoctoral fellow at the Royal Netherlands Institute for Sea Research (NIOZ) in the Netherlands\n2015 - 2018\nPostdoctoral fellow at the Marine Science Institute in Port Aransas (UT Austin)\n2012-2015\nGraduate student at the Max-Planck Institute for Plant Breeding Research in Cologne, Germany\nTopic:    Structural and functional analysis of the root microbiome of Arabidopsis thaliana and relative species\nLink to my PhD Thesis (english), tba\n2006-2011 \nUniversity student at the MLU Halle-Wittenberg in Halle, Germany\nGraduating as Diplom Biologist (equivalent to M.Sc.) Diploma thesis performed at the Leibniz Institute for Plant Biochemistry in Halle, Germany Topic:    Polysomal mRNA profiling of auxin responsive transcriptomes in different cell types of Arabidopsis thaliana"
+  },
+  {
+    "objectID": "cv.html#funding",
+    "href": "cv.html#funding",
+    "title": "CV",
+    "section": "FUNDING",
+    "text": "FUNDING\n2017\nJGI Community Science Program (CSP) Sequencing Grant\n2012-2015\nInternational Max Planck Research School IMPRS Fellowship"
+  },
+  {
+    "objectID": "cv.html#teaching-outreach",
+    "href": "cv.html#teaching-outreach",
+    "title": "CV",
+    "section": "TEACHING & OUTREACH",
+    "text": "TEACHING & OUTREACH\n2022\nLecturer at the 2 days metagenomics workshop as part of the Genome Biology and Genomics course at the University of Bristol\nGuest lecturer at the Evolutionary Genomics course series at Utrecht university\n2021\nOrganized and lectured at a 10 week workshop series Bioinformatics for marine biologists aimed at undergraduate and graduate students at the Royal Netherlands Institute for Sea Research (NIOZ)\n2019\nTA’ed at a 2 day workshop R for beginners aimed at undergraduate to senior researchers at the Royal Netherlands Institute for Sea Research (NIOZ)\nOrganized and lectured at a 10 week workshop series Bioinformatics for marine biologists aimed at undergraduate and graduate students at the Royal Netherlands Institute for Sea Research (NIOZ)\n2017\n‘Graduate School Roundtable (REU)’  at UT Austin Marine Science Institute -Panel-member\nGraduate class “Genomics in Ocean Science” at UT Austin Marine Science Institute - Guest lecturer\n2016\nSeminar series “Molecular biology” at UT Austin Marine Science Institute - Organizing committee & lecturer\nWorkshop “ECOGEO ’Omics Training: Introduction to Environmental ’Omics using a Unix-based Virtual Machine” at U. Hawai‘i Mānoa - Lecturer. COURSE MATERIAL"
+  },
+  {
+    "objectID": "blog.html",
+    "href": "blog.html",
+    "title": "Blog",
+    "section": "",
+    "text": "news\n\n\ncode\n\n\nanalysis\n\n\n\n\n\n\n\n\n\n\n\nSep 20, 2022\n\n\nNina Dombrowski\n\n\n\n\n\n\n  \n\n\n\n\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\n\n\nSep 17, 2022\n\n\nNina Dombrowski\n\n\n\n\n\n\nNo matching items"
+  }
+]
