@@ -20,8 +20,7 @@ website:
         href: https://twitter.com/n_dombrowski
 format:
   html:
-    theme: flatly
-    css: styles.css
+    theme: theme.scss
 
 execute:
   eval: false

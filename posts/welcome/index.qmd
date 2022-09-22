@@ -40,7 +40,7 @@ quarto create-project myblog --type website:blog
 
 This creates a folder with the name `myblog` (so change the name in the command above if you want to have a more creative name) that includes all the required templates to immediately build a test website. 
 
-I changed some things to make these templates fir my personal needs. For example, I added more categories, such as a Projects and Publications, into the navbar and moved my personal information to starting page instead of having the blog appear there. Everything I did is documented on my GitHub page (more on that below), so if you want to have some inspiration feel free to have a look [here](https://github.com/ndombrowski/ndombrowski.github.io).
+I changed some things to make these templates fit my personal needs. For example, I added more categories, such as a Projects and Publications, into the navbar and moved my personal information to the starting page instead of having the blog appear there. Everything I did is documented on my GitHub page (more on that below), so if you want to have some inspiration feel free to have a look [here](https://github.com/ndombrowski/ndombrowski.github.io).
 
 To see if what I did worked, I just needed one command to check the state of my website: 
 
@@ -54,7 +54,7 @@ Once I was happy, I rendered the website with:
 quarto render
 ```
 
-Next, the big question was where to publish my website and luckily quarto works well with different publishing services, such as GitHub Pages, Netlify and it even comes with its own publishing service, Quarto pub. I tried out all three and decided to stick with GitHub Pages since I anyhow use GitHub to back up my code.
+Next, the big question was where to publish my website and luckily quarto works well with different publishing services, such as GitHub Pages, Netlify and it even comes with its own publishing service, Quarto pub. I tried out all three and decided to stick with GitHub Pages since I anyhow use GitHub for my code.
 
 First I created an empty github repository in order to setup a GitHub Pages site. If you are unfamiliar with how to do this you can find a step-by-step guide [here](https://docs.github.com/en/pages/getting-started-with-github-pages/creating-a-github-pages-site). 
 
