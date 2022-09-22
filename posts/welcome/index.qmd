@@ -1,14 +1,14 @@
 ---
 title: "Building a website with Quarto"
 author: "Nina Dombrowski"
-date: "22-09-2022"
-categories: [news]
-image: "Quarto.png"
+date: "2022-08-22"
+categories: [news, code]
+image: "../../images/quarto.png"
 ---
 
 I recently decided that it is time to update my personal website and realized that the system I used did not fit my needs anymore. So .... what to do?
 
-I recently moved to [Quarto](https://Quarto.org) to document my code and write reports and saw that I could not only use it to document and compile my code but that it is also possible to create a website with Quarto, which turned out to be surprisingly easy.
+I recently moved to [Quarto](https://Quarto.org) to document my code and write reports and saw that it is also possible to create a website with Quarto, which turned out to be surprisingly easy.
 
 <html>
    <body>
@@ -24,7 +24,7 @@ I recently moved to [Quarto](https://Quarto.org) to document my code and write r
    </style>
    <p align="center">
       <a href="https://quarto.org/docs/websites/">
-         <img alt="Qries" src="Quarto.png">
+         <img alt="" src="../../images/quarto.png">
          <figcaption>Click me to go to the Quarto documentation</figcaption>
       </a>
       </p>
@@ -53,7 +53,6 @@ Once I was happy, I rendered the website with:
 ```{bash}
 quarto render
 ```
-
 
 Next, the big question was where to publish my website and luckily quarto works well with different publishing services, such as GitHub Pages, Netlify and it even comes with its own publishing service, Quarto pub. I tried out all three and decided to stick with GitHub Pages since I anyhow use GitHub to back up my code.
 
