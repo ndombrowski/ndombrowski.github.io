@@ -247,7 +247,7 @@ Click me to go to the Quarto documentation
 <div class="sourceCode cell-code" id="cb1"><pre class="sourceCode bash code-with-copy"><code class="sourceCode bash"><span id="cb1-1"><a href="#cb1-1" aria-hidden="true" tabindex="-1"></a><span class="ex">quarto</span> create-project myblog <span class="at">--type</span> website:blog</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
 </div>
 <p>This creates a folder with the name <code>myblog</code> (so change the name in the command above if you want to have a more creative name) that includes all the required templates to immediately build a test website.</p>
-<p>I changed some things to make these templates fir my personal needs. For example, I added more categories, such as a Projects and Publications, into the navbar and moved my personal information to starting page instead of having the blog appear there. Everything I did is documented on my GitHub page (more on that below), so if you want to have some inspiration feel free to have a look <a href="https://github.com/ndombrowski/ndombrowski.github.io">here</a>.</p>
+<p>I changed some things to make these templates fit my personal needs. For example, I added more categories, such as a Projects and Publications, into the navbar and moved my personal information to the starting page instead of having the blog appear there. Everything I did is documented on my GitHub page (more on that below), so if you want to have some inspiration feel free to have a look <a href="https://github.com/ndombrowski/ndombrowski.github.io">here</a>.</p>
 <p>To see if what I did worked, I just needed one command to check the state of my website:</p>
 <div class="cell" data-execution_count="2">
 <div class="sourceCode cell-code" id="cb2"><pre class="sourceCode bash code-with-copy"><code class="sourceCode bash"><span id="cb2-1"><a href="#cb2-1" aria-hidden="true" tabindex="-1"></a><span class="ex">quarto</span> preview</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
@@ -256,7 +256,7 @@ Click me to go to the Quarto documentation
 <div class="cell" data-execution_count="3">
 <div class="sourceCode cell-code" id="cb3"><pre class="sourceCode bash code-with-copy"><code class="sourceCode bash"><span id="cb3-1"><a href="#cb3-1" aria-hidden="true" tabindex="-1"></a><span class="ex">quarto</span> render</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
 </div>
-<p>Next, the big question was where to publish my website and luckily quarto works well with different publishing services, such as GitHub Pages, Netlify and it even comes with its own publishing service, Quarto pub. I tried out all three and decided to stick with GitHub Pages since I anyhow use GitHub to back up my code.</p>
+<p>Next, the big question was where to publish my website and luckily quarto works well with different publishing services, such as GitHub Pages, Netlify and it even comes with its own publishing service, Quarto pub. I tried out all three and decided to stick with GitHub Pages since I anyhow use GitHub for my code.</p>
 <p>First I created an empty github repository in order to setup a GitHub Pages site. If you are unfamiliar with how to do this you can find a step-by-step guide <a href="https://docs.github.com/en/pages/getting-started-with-github-pages/creating-a-github-pages-site">here</a>.</p>
 <p>Next, the only thing I had to do was:</p>
 <ul>
