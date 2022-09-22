@@ -12,7 +12,7 @@ website:
       - blog.qmd
       - projects.qmd
       - cv.qmd
-      - publications.qmd 
+      - publications.qmd
       - contact.qmd
       - icon: github
         href: github.com/ndombrowski
@@ -23,5 +23,5 @@ format:
     theme: flatly
     css: styles.css
 
-
-
+execute:
+  eval: false

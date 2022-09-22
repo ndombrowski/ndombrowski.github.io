@@ -1,12 +1,76 @@
 ---
-title: "Welcome To My Blog"
+title: "Building a website with Quarto"
 author: "Nina Dombrowski"
-date: "2022-09-17"
+date: "22-09-2022"
 categories: [news]
+image: "Quarto.png"
 ---
 
-This is the first post in a Quarto blog. Welcome!
+I recently decided that it is time to update my personal website and realized that the system I used did not fit my needs anymore. So .... what to do?
 
-![](thumbnail.jpg)
+I recently moved to [Quarto](https://Quarto.org) to document my code and write reports and saw that I could not only use it to document and compile my code but that it is also possible to create a website with Quarto, which turned out to be surprisingly easy.
 
-Since this post doesn't specify an explicit `image`, the first image in the post will be used in the listing page of posts.
+<html>
+   <body>
+   <style>
+   
+   figcaption {
+   background-color: white;
+   color: white;
+   font-style: italic;
+   padding: 2px;
+   text-align: center;
+}
+   </style>
+   <p align="center">
+      <a href="https://quarto.org/docs/websites/">
+         <img alt="Qries" src="Quarto.png">
+         <figcaption>Click me to go to the Quarto documentation</figcaption>
+      </a>
+      </p>
+   </body>
+</html>
+
+
+The Quarto webpage comes with an excellent documentation, which I recommend you have a look at first. After doing so myself, I started with setting up a template for a blog by typing this into my terminal:
+
+```{bash}
+quarto create-project myblog --type website:blog
+```
+
+This creates a folder with the name `myblog` (so change the name in the command above if you want to have a more creative name) that includes all the required templates to immediately build a test website. 
+
+I changed some things to make these templates fir my personal needs. For example, I added more categories, such as a Projects and Publications, into the navbar and moved my personal information to starting page instead of having the blog appear there. Everything I did is documented on my GitHub page (more on that below), so if you want to have some inspiration feel free to have a look [here](https://github.com/ndombrowski/ndombrowski.github.io).
+
+To see if what I did worked, I just needed one command to check the state of my website: 
+
+```{bash}
+quarto preview
+```
+
+Once I was happy, I rendered the website with:
+
+```{bash}
+quarto render
+```
+
+
+Next, the big question was where to publish my website and luckily quarto works well with different publishing services, such as GitHub Pages, Netlify and it even comes with its own publishing service, Quarto pub. I tried out all three and decided to stick with GitHub Pages since I anyhow use GitHub to back up my code.
+
+First I created an empty github repository in order to setup a GitHub Pages site. If you are unfamiliar with how to do this you can find a step-by-step guide [here](https://docs.github.com/en/pages/getting-started-with-github-pages/creating-a-github-pages-site). 
+
+Next, the only thing I had to do was:
+
+- Set the source branch of the GitHub pages to the gh-pages branch and set the repository to root
+- Ignore some of the files in my folder by adding some lines in the .gitignore:
+    - `/.Quarto/`
+    - `/_site/`
+
+Once that was set the only thing I had to do was publish the site with 
+
+```{bash}
+quarto publish gh-pages
+```
+
+And voila, here we are!
+

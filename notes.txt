@@ -9,3 +9,12 @@ hosted here: https://quartopub.com/sites/nina-dombrowski/myblog
 
 blog posts are stored in the posts/ directory. 
 Each post has to have a folder, and inside this folder you need a index.qmd file. 
+
+#github
+
+to upload the page under ndombrowski.github.io I followed the instructions here:
+
+- https://docs.github.com/en/pages/getting-started-with-github-pages/creating-a-github-pages-site
+- https://quarto.org/docs/publishing/github-pages.html (following the section 'Publish Command''
+
+

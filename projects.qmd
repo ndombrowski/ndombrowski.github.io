@@ -4,7 +4,9 @@ title: "Projects"
 
 ## Current Postdoc
 
-1. I am interested in gaining insights into the biology and evolution of archaea belonging to the DPANN superphylum, a group of archaea recently discovered using metagenomic approaches. Specifically, I am interested in:
+### The genomic diversity, lifestyles and evolutionary origins in the DPANN archaea
+
+I am interested in gaining insights into the biology and evolution of archaea belonging to the DPANN superphylum, a group of archaea recently discovered using metagenomic approaches. Specifically, I am interested in:
 
 - Understanding how diverse  DPANN archaea are in marine environments
 - Trying to identify the interaction partners of DPANN archaea using metagenomic approaches?
@@ -15,26 +17,36 @@ title: "Projects"
 </p>
 
 
-2. I am also investigating the microbial diversity and nutrient dependencies of microbes in the Black Sea.
+Find out more:
 
-- The Black Sea is a stratified, anaerobic marine environment and as such provides extremely stable conditions. Using metagenomic approaches we want to compare microbial communities at different depths and
-- Untangle the nutrient interdependencies of microbes in the water column and the sediment.
-- Preliminary data suggests that DPANN archaea are extremely diverse and abundant in the Black Sea. Therefore, we will also use this as a study site to address some of the questions asked above.
+[Genomic diversity, lifestyles and evolutionary origins of DPANN archaea](https://pubmed.ncbi.nlm.nih.gov/30629179/)
+
+[Talking about a novel phylum in the DPANN archaea](https://www.youtube.com/watch?v=6whnZfdFZTw)
+
+
+
+### Investigating the microbial diversity and nutrient dependencies of microbes in the Black Sea
+
+The Black Sea is a stratified, anaerobic marine environment and as such provides extremely stable conditions. Using metagenomic approaches we want to compare microbial communities at different depths and untangle the nutrient interdependencies of microbes in the water column and the sediment. Our preliminary data suggests that DPANN archaea are extremely diverse and abundant in the Black Sea making it an idealy environment to study them in more detail.
+
 
 <p align="center">
   <img width="50%" src="images/IMG_3162.jpg">
 </p>
 
 
+
 ## Postdoc at the MSI
 
-1. During my Postdoc at the Marine Science Institute (University of Texas) I reconstructed microbial genomes and resolved metabolic capabilities of microbes found in  hydrothermal sediment vent sediments. Here,  was looking at:
+### Understanding the diversity and metabolic potential of hydrothermal vent associated micobes
+
+During my Postdoc at the Marine Science Institute (University of Texas) I reconstructed microbial genomes and resolved metabolic capabilities of microbes found in  hydrothermal sediment vent sediments. Here,  was looking at:
 
 - How diverse are microbial communities found in Guaymas Basin deep-sea hydrothermal vent sediments?
 - What is the genetic, functional and metabolic potential encoded in bacteria genomes from these sediment communities?
 - What pathways for anaerobic degradation of hydrocarbons are encoded in these genomes?
 
-Read more:
+Find out more:
 
 [Genomic insights into potential interdependencies in microbial hydrocarbon and nutrient cycling in hydrothermal sediments](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-017-0322-2)
 
@@ -43,7 +55,9 @@ Read more:
 </p>
 
 
-2. Additionally, I identified hydrocarbon degradation pathways in uncultured bacteria from the Deep Water Horizon Oil Spill and asked:
+### Uncover novel microbes that might be involved in oil degradation 
+
+I identified hydrocarbon degradation pathways in genomes from uncultured bacteria from sediments affected by the Deep Water Horizon Oil Spill and asked:
 
 - What were the hydrocarbon degrading bacteria that were present during the Deepwater Horizon oil spill
 - What pathways do these bacteria employ for oil-degradation?
@@ -54,14 +68,18 @@ Read more:
 </p>
 
 
-Read more:
+Find out more:
 
 [Reconstructing metabolic pathways of hydrocarbon-degrading bacteria from the Deepwater Horizon oil spill](https://www.nature.com/articles/nmicrobiol201657)
 
 [Can we harness bacteria to help clean up future oil spills?](https://theconversation.com/can-we-harness-bacteria-to-help-clean-up-future-oil-spills-59358)
 
 
+
+
 ## Previous Research
+
+### What microbes are found close to plant roots and how do they affect plant growth? 
 
 I did my doctoral Research (2012-2015) at the Department of Plant and Microbe Interactions in Max-Planck-Institute for Plant Breeding Research in Cologne, Germany. Here, I worked on two main research topics:
 
@@ -70,7 +88,7 @@ I did my doctoral Research (2012-2015) at the Department of Plant and Microbe In
 - What is the structure of bacterial communities found in natural soil, rhizosphere and plant roots of *Arabis alpina*, *Arabidopsis thaliana* and *Cardamine hirsuta*?
 - What are factors (i.e. environment, soil type, flowering, ...) that shape the assembly  of bacterial communities?
 
-Read more:
+Find out more:
 
 [Root microbiota dynamics of perennial Arabis alpina are dependent on soil residence time but independent of flowering time](https://www.nature.com/articles/ismej2016109)
 
@@ -87,9 +105,13 @@ Read more:
 - What is the role of root-associated Rhizobia on plant growth?
 - How do Rhizobia affect the plant transcriptome?
 
-Read more:
+Find out more:
 
-[Functional overlap of the *Arabidopsis* leaf and root microbiota]
+[Functional overlap of the *Arabidopsis* leaf and root microbiota](https://www.nature.com/articles/nature16192)
+
+
+
+### Studying auxin-inducible genes in *Arabidobsis thaliana*
 
 I did my undergraduate Research (2010-2011) at the Department of Molecular Signal Processing in Leibniz Institute for Plant Biochemistry in Halle, Germany and wrote my thesis on Ribosomal mRNA profiling of auxin-inducible genes in *Arabidopsis thaliana*. Here, I:
 
