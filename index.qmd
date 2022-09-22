@@ -26,6 +26,6 @@ My general research focus is on the role of microbes in different environments, 
 
 Currently, I am studying a group of symbionts belonging to the DPANN archaea. DPANN archaea have very small genomes, most might rely on a host to be able to grow and very few of them can be grown together with their hosts in a laboratory setting. Therefore, little is known about their role in microbial food webs.
 
-I obtained my PhD studying microbial communities associated with plants and looked at what kind of microbes can be found on the roots of different plant species and tested some of these microbes for plant-growth promoting activities.
+I obtained my PhD studying microbial communities associated with plants and looked at what kind of microbes can be found on the roots of different plant species and tested some of these microbes for plant growth-promoting activities.
 
 Most of this work is done using bioinformatic approaches (and I am rarely seen in the lab these days).  **As part of my research career I am developing tutorials for my students and you can also find some material from courses I taught [here](https://github.com/ndombrowski).**

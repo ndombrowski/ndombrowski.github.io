@@ -16,7 +16,7 @@ Here, I investigate archaea using metagenomic approaches.
 
 Archaea make up one of the main divisions of life, next to the Bacteria and the Eukaryotes and live in all habitats on Earth ranging from soils and sediments to marine and freshwater environments as well as the human gut.
 
-Metagenomics is a technique in which DNA is sequenced directly from environmental samples and DNA fragments used to reconstruct genomes from uncultivated organisms. This technique has not only revealed that microbial life is much more diverse than originally thought, but also shed light on what the role of these microbes is in their habitats In the archaea this approach lead to the description of a large diversity of putative symbiotic organisms, most of which belong to the tentative archaeal superphylum referred to as DPANN archaea.
+Metagenomics is a technique in which DNA is sequenced directly from environmental samples and DNA fragments used to reconstruct genomes from uncultivated organisms. This technique has not only revealed that microbial life is much more diverse than originally thought, but also shed light on what the role of these microbes is in their habitats In the archaea this approach lead to the description of a large diversity of putative symbiotic organisms, most of which belong to the archaeal superphylum referred to as DPANN archaea.
 
 <p align="center">
 <img src="images/Binning.png" width="50%"/>
@@ -64,16 +64,15 @@ The Black Sea is a stratified, anaerobic marine environment and as such provides
 ## Postdoc at the MSI
 
 <span style="font-size:1.5vw;">
-**[Understanding the diversity and metabolic potential of hydrothermal vent associated micobes]{.underline}**
+**[Understanding the diversity and metabolic potential of hydrothermal vent-associated micobes]{.underline}**
 </span>
 
 During my Postdoc at the Marine Science Institute (University of Texas) in the [lab of Dr. Brett Baker](https://sites.utexas.edu/baker-lab/) I reconstructed microbial genomes and resolved metabolic capabilities of microbes found in hydrothermal sediment vent sediments.
 
-Specifically, was looking at:
+Specifically, I was looking asking:
 
 -   How diverse are microbial communities found in Guaymas Basin deep-sea hydrothermal vent sediments?
 -   What is the genetic, functional and metabolic potential encoded in bacteria genomes from these sediment communities?
--   What pathways for anaerobic degradation of hydrocarbons are encoded in these genomes?
 
 Find out more:
 
@@ -82,7 +81,7 @@ Find out more:
 
 <p align="center">
 <img src="images/hydrothermal.jpg" width="50%"/>
-<figcaption class = "center">Microbial mats found on hydrothermal sediments Guaymas Basin</figcaption>
+<figcaption class = "center">Microbial mats found on hydrothermal sediments (Guaymas Basin)</figcaption>
 </p>
 
 <br>
@@ -92,7 +91,7 @@ Find out more:
 </span>
 
 
-In another project, I identified hydrocarbon degradation pathways in genomes from uncultured bacteria from sediments affected by the Deep Water Horizon Oil Spill. My research questions were:
+In another project, I identified hydrocarbon degradation pathways in genomes from uncultured bacteria from water affected by the Deep Water Horizon Oil Spill. My research questions were:
 
 -   What were the hydrocarbon degrading bacteria that were present during the Deepwater Horizon oil spill
 -   What pathways do these bacteria employ for oil-degradation?
@@ -162,7 +161,8 @@ Find out more:
 **[Studying auxin-inducible genes in *Arabidobsis thaliana*]{.underline}**
 </span>
 
-I did my undergraduate Research (2010-2011) in the [QuintLab](https://quintlab.landw.uni-halle.de/team/) the Department of Molecular Signal Processing in Leibniz Institute for Plant Biochemistry in Halle, Germany and wrote my thesis on Ribosomal mRNA profiling of auxin-inducible genes in *Arabidopsis thaliana*.
+I did my undergraduate Research (2010-2011) in the [QuintLab](https://quintlab.landw.uni-halle.de/team/) at the Leibniz Institute for Plant Biochemistry in Halle, Germany, and wrote my thesis on Ribosomal mRNA profiling of auxin-inducible genes in *Arabidopsis thaliana*.
+
 Here, I:
 
 -   Established of translating ribosomal affinity purification (TRAP) as new experimental technique in order to isolate cell-type specific mRNA as well as development of new cell-type-specific maker lines

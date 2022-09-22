@@ -14,69 +14,69 @@ See also:
 
 **2022**
 
-Moody ER, Mahendrarajah TA, Dombrowski N, Clark JW, Petitjean C, Offre P, et al. An estimate of the deepest branches of the tree of life from ancient vertically evolving genes. eLife 2022; 11: e66695. [Link to paper](https://elifesciences.org/articles/66695)
+Moody ER, Mahendrarajah TA, <u>Dombrowski N</u>, Clark JW, Petitjean C, Offre P, et al. An estimate of the deepest branches of the tree of life from ancient vertically evolving genes. eLife 2022; 11: e66695. [Link to paper](https://elifesciences.org/articles/66695)
 
-Krause S, Gfrerer S, von Kügelgen A, Reuse C, Dombrowski N, Villanueva L, et al. The importance of biofilm formation for cultivation of a Micrarchaeon and its interactions with its Thermoplasmatales host. Nat Commun 2022; 13: 1735. [Link to paper](https://www.nature.com/articles/s41467-022-29263-y)
+Krause S, Gfrerer S, von Kügelgen A, Reuse C, <u>Dombrowski N</u>, Villanueva L, et al. The importance of biofilm formation for cultivation of a Micrarchaeon and its interactions with its Thermoplasmatales host. Nat Commun 2022; 13: 1735. [Link to paper](https://www.nature.com/articles/s41467-022-29263-y)
 
-Langwig MV, De Anda V, Dombrowski N, Seitz KW, Rambo IM, Greening C, et al. Large-scale protein level comparison of Deltaproteobacteria reveals cohesive metabolic groups. ISME J 2022; 16: 307–320. [Link to paper](https://www.nature.com/articles/s41396-021-01057-y)
+Langwig MV, De Anda V, <u>Dombrowski N</u>, Seitz KW, Rambo IM, Greening C, et al. Large-scale protein level comparison of Deltaproteobacteria reveals cohesive metabolic groups. ISME J 2022; 16: 307–320. [Link to paper](https://www.nature.com/articles/s41396-021-01057-y)
 
 
 **2021**
 
-De Anda V, Chen L-X, Dombrowski N, Hua Z-S, Jiang H-C, Banfield JF, et al. Brockarchaeota, a novel archaeal phylum with unique and versatile carbon cycling pathways. Nat Commun 2021; 12: 2404. [Link to paper](https://www.nature.com/articles/s41467-021-22736-6)
+De Anda V, Chen L-X, <u>Dombrowski N</u>, Hua Z-S, Jiang H-C, Banfield JF, et al. Brockarchaeota, a novel archaeal phylum with unique and versatile carbon cycling pathways. Nat Commun 2021; 12: 2404. [Link to paper](https://www.nature.com/articles/s41467-021-22736-6)
 
-Mayer T, Mari A, Almario J, Murillo-Roos M, Syed M. Abdullah H, Dombrowski N, et al. Obtaining deeper insights into microbiome diversity using a simple method to block host and nontargets in amplicon sequencing. Molecular Ecology Resources 2021; 21: 1952–1965. [Link to paper](https://onlinelibrary.wiley.com/doi/10.1111/1755-0998.13408) 
+Mayer T, Mari A, Almario J, Murillo-Roos M, Syed M. Abdullah H, <u>Dombrowski N</u>, et al. Obtaining deeper insights into microbiome diversity using a simple method to block host and nontargets in amplicon sequencing. Molecular Ecology Resources 2021; 21: 1952–1965. [Link to paper](https://onlinelibrary.wiley.com/doi/10.1111/1755-0998.13408) 
 
 
 **2020**
 
-Dombrowski N, Williams TA, Sun J, Woodcroft BJ, Lee J-H, Minh BQ, Rinke C, Spang A Undinarchaeota illuminate the evolution of DPANN archaea. Nature Communications 2020. [Link to paper](https://www.nature.com/articles/s41467-020-17408-w)
+<u>Dombrowski N</u>, Williams TA, Sun J, Woodcroft BJ, Lee J-H, Minh BQ, Rinke C, Spang A Undinarchaeota illuminate the evolution of DPANN archaea. Nature Communications 2020. [Link to paper](https://www.nature.com/articles/s41467-020-17408-w)
 
-Baker BJ, De Anda V, Seitz KW, Dombrowski N, Santoro AE, Lloyd KG. Diversity, ecology and evolution of Archaea. Nature Microbiology 2020; 1–14. [Link to paper](https://www.nature.com/articles/s41564-020-0715-z)
+Baker BJ, De Anda V, Seitz KW, <u>Dombrowski N</u>, Santoro AE, Lloyd KG. Diversity, ecology and evolution of Archaea. Nature Microbiology 2020; 1–14. [Link to paper](https://www.nature.com/articles/s41564-020-0715-z)
 
-Rambo IM, Dombrowski N, Constant L, Erdner D, Baker BJ. Metabolic relationships of uncultured bacteria associated with the microalgae Gambierdiscus. Environ Microbiol 2020; 22: 1764–1783. [Link to paper](https://sfamjournals.onlinelibrary.wiley.com/doi/abs/10.1111/1462-2920.14878)
+Rambo IM, <u>Dombrowski N</u>, Constant L, Erdner D, Baker BJ. Metabolic relationships of uncultured bacteria associated with the microalgae Gambierdiscus. Environ Microbiol 2020; 22: 1764–1783. [Link to paper](https://sfamjournals.onlinelibrary.wiley.com/doi/abs/10.1111/1462-2920.14878)
 
 
 
 **2019**
 
-Schwank, K, Bornemann TLV, Dombrowski N, Spang A, Banfield JF, Probst AJ. An archaeal symbiont-host association from the deep terrestrial subsurface. The ISME Journal 1 (2019). [Link to paper](https://www.nature.com/articles/s41396-019-0421-0)
+Schwank, K, Bornemann TLV, <u>Dombrowski N</u>, Spang A, Banfield JF, Probst AJ. An archaeal symbiont-host association from the deep terrestrial subsurface. The ISME Journal 1 (2019). [Link to paper](https://www.nature.com/articles/s41396-019-0421-0)
 
-Spang A, Stairs CW, Dombrowski N, Eme L, Lombard J, Caceres EF, et al. Proposal of the reverse flow model for the origin of the eukaryotic cell based on comparative analyses of Asgard archaeal metabolism. Nature Microbiology 2019; 1. [Link to paper](https://www.nature.com/articles/s41564-019-0406-9)
+Spang A, Stairs CW, <u>Dombrowski N</u>, Eme L, Lombard J, Caceres EF, et al. Proposal of the reverse flow model for the origin of the eukaryotic cell based on comparative analyses of Asgard archaeal metabolism. Nature Microbiology 2019; 1. [Link to paper](https://www.nature.com/articles/s41564-019-0406-9)
 
-Dombrowski N, Lee J-H, Williams TA, Offre P, Spang A. Genomic diversity, lifestyles and evolutionary origins of DPANN archaea. FEMS Microbiol Lett 2019; 366. [Link to paper](https://academic.oup.com/femsle/article/366/2/fnz008/5281434)
+<u>Dombrowski N</u>, Lee J-H, Williams TA, Offre P, Spang A. Genomic diversity, lifestyles and evolutionary origins of DPANN archaea. FEMS Microbiol Lett 2019; 366. [Link to paper](https://academic.oup.com/femsle/article/366/2/fnz008/5281434)
 
-Seitz KW, Dombrowski N, Eme L, Spang A, Lombard J, Sieber JR, et al. Asgard archaea capable of anaerobic hydrocarbon cycling. Nature Communications 10, 1822 (2019). [Link to paper](https://www.nature.com/articles/s41467-019-09364-x)
+Seitz KW, <u>Dombrowski N</u>, Eme L, Spang A, Lombard J, Sieber JR, et al. Asgard archaea capable of anaerobic hydrocarbon cycling. Nature Communications 10, 1822 (2019). [Link to paper](https://www.nature.com/articles/s41467-019-09364-x)
 
-Steen AD, Kevorkian RT, Bird JT, Dombrowski N, Baker BJ, Hagen SM, et al. (2019). Kinetics and Identities of Extracellular Peptidases in Subsurface Sediments of the White Oak River Estuary, North Carolina. Appl Env Micro 85(19): e00102-19 (2019) [Link to paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6752024/)
+Steen AD, Kevorkian RT, Bird JT, <u>Dombrowski N</u>, Baker BJ, Hagen SM, et al. (2019). Kinetics and Identities of Extracellular Peptidases in Subsurface Sediments of the White Oak River Estuary, North Carolina. Appl Env Micro 85(19): e00102-19 (2019) [Link to paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6752024/)
 
 
 **2018**
 
-Dombrowski N, Teske AP, Baker BJ. Expansive microbial metabolic versatility and biodiversity in dynamic Guaymas Basin hydrothermal sediments. Nature Communications 2018; 9: 4999. [Link to paper](https://www.nature.com/articles/s41467-018-07418-0)
+<u>Dombrowski N</u>, Teske AP, Baker BJ. Expansive microbial metabolic versatility and biodiversity in dynamic Guaymas Basin hydrothermal sediments. Nature Communications 2018; 9: 4999. [Link to paper](https://www.nature.com/articles/s41467-018-07418-0)
 
-Garrido-Oter R*, Nakano RT*, Dombrowski N*, Ma K-W, McHardy AC, Schulze-Lefert P. Modular Traits of the Rhizobiales Root Microbiota and Their Evolutionary Relationship with Symbiotic Rhizobia. Cell Host & Microbe 2018; 24: 155-167.e5.[Link to paper](https://www.cell.com/cell-host-microbe/abstract/S1931-3128(18)30318-4)
+Garrido-Oter R*, Nakano RT*, <u>Dombrowski N</u>*, Ma K-W, McHardy AC, Schulze-Lefert P. Modular Traits of the Rhizobiales Root Microbiota and Their Evolutionary Relationship with Symbiotic Rhizobia. Cell Host & Microbe 2018; 24: 155-167.e5.[Link to paper](https://www.cell.com/cell-host-microbe/abstract/S1931-3128(18)30318-4)
 
-Chen L-X, Méndez-García C, Dombrowski N, Servín-Garcidueñas LE, Eloe-Fadrosh EA, Fang B-Z, et al. (2017). Metabolic versatility of small archaea Micrarchaeota and Parvarchaeota. The ISME Journal. [Link to paper](https://www.nature.com/articles/s41396-017-0002-z)
+Chen L-X, Méndez-García C, <u>Dombrowski N</u>, Servín-Garcidueñas LE, Eloe-Fadrosh EA, Fang B-Z, et al. (2017). Metabolic versatility of small archaea Micrarchaeota and Parvarchaeota. The ISME Journal. [Link to paper](https://www.nature.com/articles/s41396-017-0002-z)
 
 
 **2017**
 
-Heijden MGA van der, Dombrowski N, Schlaeppi K. (2017). Continuum of root–fungal symbioses for plant nutrition. PNAS 201716329. [Link to paper](http://www.pnas.org/content/early/2017/10/20/1716329114.full)
+Heijden MGA van der, <u>Dombrowski N</u>, Schlaeppi K. (2017). Continuum of root–fungal symbioses for plant nutrition. PNAS 201716329. [Link to paper](http://www.pnas.org/content/early/2017/10/20/1716329114.full)
 
-Dombrowski N, Seitz KW, Teske AP and Baker, BJ. Genomic insights into potential interdependencies in microbial hydrocarbon and nutrient cycling in hydrothermal sediments. Microbiome 5, 106 (2017). [Link to paper](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-017-0322-2)
+<u>Dombrowski N</u>, Seitz KW, Teske AP and Baker, BJ. Genomic insights into potential interdependencies in microbial hydrocarbon and nutrient cycling in hydrothermal sediments. Microbiome 5, 106 (2017). [Link to paper](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-017-0322-2)
 
-Dombrowski N., Schlaeppi K., Bai Y., Agler M., Hacquard S., Kemen E., Wunder J., Coupland G. and Schulze-Lefert P.. Root microbiota dynamics of perennial Arabis alpina and root growth promoting activity of microbiota members. ISMEJ doi: 10.1038/ismej.2016.109 (2017). [Link to paper](http://www.nature.com/ismej/journal/vaop/ncurrent/full/ismej2016109a.html)
+<u>Dombrowski N</u>., Schlaeppi K., Bai Y., Agler M., Hacquard S., Kemen E., Wunder J., Coupland G. and Schulze-Lefert P.. Root microbiota dynamics of perennial Arabis alpina and root growth promoting activity of microbiota members. ISMEJ doi: 10.1038/ismej.2016.109 (2017). [Link to paper](http://www.nature.com/ismej/journal/vaop/ncurrent/full/ismej2016109a.html)
 
 
 **2016**
 
-Dombrowski N., Donaho J., Teske A.P., Gutierrez T., Baker B.J.. Hydrocarbon degradation pathways in uncultured bacteria from the Deep Water Horizon Oil Spill. Nature Microbiology 16057 (2016). [Abstract] [Link to paper](http://www.nature.com/articles/nmicrobiol201657)
+<u>Dombrowski N</u>., Donaho J., Teske A.P., Gutierrez T., Baker B.J.. Hydrocarbon degradation pathways in uncultured bacteria from the Deep Water Horizon Oil Spill. Nature Microbiology 16057 (2016). [Abstract] [Link to paper](http://www.nature.com/articles/nmicrobiol201657)
 
 
 **2015**
 
-­­Bai, Y., , Müller D., Srinvias G., Garrido-Oter R., Potthoff E., Rott M., Dombrowski N., Münch P., Spaepen S., Remus-Emserman M., Hüttel B., McHardy A., Vorhold J.A., Schulze-Lefert P., Pieterse C. M. J. . Functional overlap of the Arabidopsis leaf and root microbiota. Nature advance online publication, (2015). [Link to paper](http://www.nature.com/nature/journal/v528/n7582/full/nature16192.html)
+­­Bai, Y., , Müller D., Srinvias G., Garrido-Oter R., Potthoff E., Rott M., <u>Dombrowski N</u>., Münch P., Spaepen S., Remus-Emserman M., Hüttel B., McHardy A., Vorhold J.A., Schulze-Lefert P., Pieterse C. M. J. . Functional overlap of the Arabidopsis leaf and root microbiota. Nature advance online publication, (2015). [Link to paper](http://www.nature.com/nature/journal/v528/n7582/full/nature16192.html)
 
 Zamioudis, C., Korteland, J., Van Pelt, J.A., van Hamersveld, M., Dombrowski, N., Bai, Y., Hanson, J., Van Verk, M.C., Ling, H.-Q., Schulze-Lefert, P. .  Rhizobacterial volatiles and photosynthesis-related signals coordinate MYB72 expression in Arabidopsis roots during onset of induced systemic resistance and iron-deficiency responses.  Plant J 84, 309–322 (2015). [Link to paper](http://onlinelibrary.wiley.com/doi/10.1111/tpj.12995/abstract)
 
