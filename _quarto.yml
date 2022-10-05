@@ -15,12 +15,15 @@ website:
       - publications.qmd
       - contact.qmd
       - icon: github
-        href: github.com/ndombrowski
+        href: https://github.com/ndombrowski
       - icon: twitter
         href: https://twitter.com/n_dombrowski
+      - icon: linkedin
+        href: https://www.linkedin.com/in/nina-dombrowski-8b6142243/
 format:
   html:
     theme: theme.scss
 
 execute:
   eval: false
+  freeze: auto  # re-render only when source changes
