@@ -13,13 +13,14 @@ website:
       - projects.qmd
       - cv.qmd
       - publications.qmd
+      - resources.qmd
       - contact.qmd
       - icon: github
         href: https://github.com/ndombrowski
       - icon: twitter
         href: https://twitter.com/n_dombrowski
       - icon: linkedin
-        href: https://www.linkedin.com/in/nina-dombrowski-8b6142243/
+        href: https://www.linkedin.com/in/nina-dombrowski-nd01/
 format:
   html:
     theme: theme.scss

@@ -9,7 +9,7 @@ about:
       href: https://twitter.com/n_dombrowski
     - icon: linkedin
       text: LinkedIn
-      href: https://www.linkedin.com/in/nina-dombrowski-8b6142243/
+      href: https://www.linkedin.com/in/nina-dombrowski-nd01/
     - icon: github
       text: Github
       href: https://github.com/ndombrowski

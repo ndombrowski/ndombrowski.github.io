@@ -1,3 +1,7 @@
 /.quarto/
 /_site/
 googleefea1ce91d6ae63c.html
+
+*.*
+
+!*.gitignore

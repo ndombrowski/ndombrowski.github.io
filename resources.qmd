@@ -1,0 +1,23 @@
+---
+title: "Resources"
+toc: true
+toc-depth: 2
+---
+
+Below you find the link to some tutorials I have created over the years:
+
+**Unix tutorials**
+
+- An [introduction into the command line](https://ndombrowski.github.io/Unix_tutorial/) and the required [example files](https://github.com/ndombrowski/Unix_tutorial) in case you want to follow along.
+- An [introduction into awk](https://ndombrowski.github.io/AWK_tutorial/) and the required [example files](https://github.com/ndombrowski/AWK_tutorial) in case you want to follow along.
+
+
+**R tutorials**
+
+- [Introduction into R](https://ndombrowski.github.io/R_tutorial/). If you want to follow along, please also download any input files from [here](https://github.com/ndombrowski/R_tutorial)
+- [Introduction into the tidyverse](https://ndombrowski.github.io/Tidyverse_tutorial/)
+
+
+**Other tutorials**
+
+- [Introduction to phylogenomics](https://ndombrowski.github.io/Phylogeny_tutorial/). This tutorial includes a practical and theoretical part, if you want follow the practical part then you can find the material on [github](https://github.com/ndombrowski/Phylogeny_tutorial). 
