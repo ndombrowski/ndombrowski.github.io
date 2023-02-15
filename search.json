@@ -88,6 +88,6 @@
     "href": "resources.html",
     "title": "Resources",
     "section": "",
-    "text": "Below you find the link to some tutorials I have created over the years:\nUnix tutorials\n\nAn introduction into the command line and the required example files in case you want to follow along.\nAn introduction into awk and the required example files in case you want to follow along.\n\nR tutorials\n\nIntroduction into R. If you want to follow along, please also download any input files from here\nIntroduction into the tidyverse\n\nOther tutorials\n\nIntroduction to phylogenomics. This tutorial includes a practical and theoretical part, if you want follow the practical part then you can find the material on github."
+    "text": "Below you find the link to some tutorials I have created over the years:\nUnix tutorials\n\nAn introduction into the command line and the required example files in case you want to follow along.\nAn introduction into awk and the required example files in case you want to follow along.\n\nR tutorials\n\nIntroduction into R. If you want to follow along, please also download any input files from here\nIntroduction into the tidyverse\nIntroduction to ggplot2\n\nOther tutorials\n\nIntroduction to phylogenomics. This tutorial includes a practical and theoretical part, if you want follow the practical part then you can find the material on github."
   }
 ]
