@@ -89,5 +89,12 @@
     "title": "Resources",
     "section": "",
     "text": "Here are some general programming tutorials I have created that you might find useful:\n\nGetting started with the command line including example files\nAn introduction to AWK with example files\nAn R cookbook with example files\nData manipulation with dplyr\nData visualization with ggplot2\n\nFor biologists, I also have tutorials on:\n\nAssembling a metagenome\nGenomic binning\nAnnotating microbial genomes\nHow to do phylogenetic analyses with example files"
+  },
+  {
+    "objectID": "resources.html#videos",
+    "href": "resources.html#videos",
+    "title": "Resources",
+    "section": "Videos",
+    "text": "Videos\nHere, you will find a lecture I gave as part of a workshop where I taught students about metagenomic assemblies, binning and annotations:\n\nA talk I gave at the UBC in April 2021 where I talk about how Undinarchaeota illuminate DPANN phylogeny and the impact of gene transfer on evolution:\n\nPart of a workshop where I introduce students into Phylogenetics as part of the ECOGEO ’Omics Training in 2016:"
   }
 ]
