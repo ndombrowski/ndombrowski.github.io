@@ -5,6 +5,7 @@ website:
   title: ""
   navbar:
     title: false
+    pinned: true
     left:
       - text: "Nina Dombrowski"
         file: index.qmd

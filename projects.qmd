@@ -4,42 +4,39 @@ toc: true
 toc-depth: 2
 ---
 
-## Current Postdoc
+## Current work as bioinformatician at the University of Amsterdam
+
+I am currently working as bioinformatician at the [Institute for Biodiversity and Ecosystem Dynamics (IBED)](https://ibed.uva.nl/) at the [University of Amsterdam](https://www.uva.nl/en). 
+
+My role is to bridge the intersection of biology and computer science and to guide and support scientists, postdocs, and PhD students in the bioinformatic analysis of their data. I am doing this as member of the [IBED Computational Support Team](https://ibed.uva.nl/facilities/computational-facilities/ibed-computational-support-team/ibed-computational-support-team.html).
+
+My areas of expertise (see also below for a more detailed description) include amplicon sequencing, metagenomics as well as phylogenomics. Additionally, I am adept in using R and Python to analyse computational data.
+
+
+
+## Postdoc at the NIOZ (Netherlands)
 
 <span style="font-size:1.5vw;">
-**[Uncovering the genomic diversity, lifestyles and evolutionary origins of the DPANN archaea]{.underline}**
+**[Exploring the hidden world of DPANN archaea using metagenomic approaches]{.underline}**
 </span>
 
-I am currently working as a Postdoc in the [lab of Dr. Anja Spang](https://www.nioz.nl/en/about/organisation/staff/anja-spang) at the Royal Netherlands Institute for Sea Research (NIOZ) in the Netherlands. 
+As a Postdoctoral researcher at the Royal Netherlands Institute for Sea Research (NIOZ) in the Netherlands, I was working in the lab of [Dr. Anja Spang](https://www.nioz.nl/en/about/organisation/staff/anja-spang).
 
-Here, I investigate archaea using metagenomic approaches.
+My research focused on using metagenomic approaches to investigate archaea, one of the main divisions of life alongside Bacteria and Eukaryotes. Archaea live in a variety of habitats on Earth, including soils, sediments, marine and freshwater environments, and even the human gut.
 
-Archaea make up one of the main divisions of life, next to the Bacteria and the Eukaryotes and live in all habitats on Earth ranging from soils and sediments to marine and freshwater environments as well as the human gut.
-
-Metagenomics is a technique in which DNA is sequenced directly from environmental samples and DNA fragments used to reconstruct genomes from uncultivated organisms. This technique has not only revealed that microbial life is much more diverse than originally thought, but also shed light on what the role of these microbes is in their habitats In the archaea this approach lead to the description of a large diversity of putative symbiotic organisms, most of which belong to the archaeal superphylum referred to as DPANN archaea.
+Through metagenomics, we can sequence DNA directly from environmental samples and reconstruct genomes from uncultivated organisms. This technique has revealed the diversity of microbial life and the roles of these organisms in their habitats. In particular, the DPANN archaeal superphylum contains a large diversity of putative symbiotic organisms, many of which have small genomes and limited metabolic capabilities, suggesting that they rely on other microbes for growth and survival. The few DPANN archaea that have been cultivated are likely obligate symbionts or parasites.
 
 <p align="center">
 <img src="images/Binning.png" width="50%"/>
 <figcaption class = "center">Going from DNA to reads to contigs to genomes</figcaption>
 </p>
 
-
-
-Members of the DPANN include organisms with very small genomes and limited metabolic capabilities, which suggests that these organisms depend on other microbes for growth and survival. Consistent with that, the few so far cultivated DPANN archaea are obligate symbionts or parasites that cannot live on their own.
-
-I am interested in gaining insights into the biology and evolution of DPANN archaea using metagenomic approaches.
-Specifically, I am interested in:
-
--   Understanding how diverse DPANN archaea are in marine environments
--   Develop approaches that allow us to identify the interaction partners of DPANN archaea
--   Finding the position of DPANN in the archaeal tree of life and addressing the question, whether symbiosis evolved early in the archaeal domain
+My research focused on gaining insights into the biology and evolution of DPANN archaea. Specifically, I am interested in understanding the diversity of DPANN archaea in marine environments, developing approaches to identify the interaction partners of DPANN archaea, and finding the position of DPANN in the archaeal tree of life. This will help to address the question of whether symbiosis evolved early in the archaeal domain.
 
 <p align="center">
 <img src="images/undinarchaeota.png" width="90%"/>
 <figcaption class = "center">Right: Placing the Undinarchaeota, , members of the DPANN archaea, into the archaeal tree. <br> Left: Potential dependencies of Undinarchaeota with a host as inferred from metagenomics. </figcaption>
 </p>
-
-
 
 Find out more:
 
@@ -49,10 +46,14 @@ Find out more:
 <br>
 
 <span style="font-size:1.5vw;">
-**[Investigating the microbial diversity and nutrient dependencies of microbes in the Black Sea]{.underline}**
+**[Investigating Microbial Diversity and Nutrient Dependencies in the Black Sea]{.underline}**
 </span>
 
-The Black Sea is a stratified, anaerobic marine environment and as such provides extremely stable conditions making it an ideal study site. Using metagenomic approaches we want to compare microbial communities at different depths and untangle the nutrient interdependencies of microbes in the water column and the sediment. Our preliminary data suggests that DPANN archaea are extremely diverse and abundant in the Black Sea. Therefore, we want to use this dataset to build methods to predict the host of these DPANN archaea based on sequencing data.
+As a postdoctoral researcher at the Royal Netherlands Institute for Sea Research (NIOZ), I also investigated microbial communities in the Black Sea using metagenomic approaches. This stratified and anaerobic marine environment provides stable conditions that make it an ideal study site.
+
+Through this research line, we aim to compare microbial communities at different depths and untangle the nutrient interdependencies of microbes in both the water column and sediment. Our preliminary data has revealed that DPANN archaea are extremely diverse and abundant in the Black Sea. As such, we are working to build methods to predict the host of these DPANN archaea based on sequencing data.
+
+By understanding the microbial diversity and nutrient dependencies in the Black Sea, we hope to gain a better understanding of how these microorganisms interact with their environment and contribute to global biogeochemical cycles.
 
 <p align="center">
 <img src="images/IMG_3162.jpg" width="50%"/>
@@ -61,18 +62,18 @@ The Black Sea is a stratified, anaerobic marine environment and as such provides
 
 <br>
 
-## Postdoc at the MSI
+## Postdoc at the University of Texas (USA)
 
 <span style="font-size:1.5vw;">
-**[Understanding the diversity and metabolic potential of hydrothermal vent-associated micobes]{.underline}**
+**[Investigating the Diversity and Metabolic Potential of Hydrothermal Vent-Associated Microbes]{.underline}**
 </span>
 
-During my Postdoc at the Marine Science Institute (University of Texas) in the [lab of Dr. Brett Baker](https://sites.utexas.edu/baker-lab/) I reconstructed microbial genomes and resolved metabolic capabilities of microbes found in hydrothermal sediment vent sediments.
+During my postdoctoral work at the Marine Science Institute (University of Texas) in the [lab of Dr. Brett Baker](https://sites.utexas.edu/baker-lab/) I focused on understanding the diversity and metabolic potential of microbes found in hydrothermal vent sediments. By reconstructing microbial genomes and analyzing their metabolic capabilities, I aimed to answer two key questions:
 
-Specifically, I was looking asking:
+- How diverse are the microbial communities found in Guaymas Basin deep-sea hydrothermal vent sediments?
+- What is the genetic, functional, and metabolic potential encoded in the bacterial genomes from these sediment communities?
 
--   How diverse are microbial communities found in Guaymas Basin deep-sea hydrothermal vent sediments?
--   What is the genetic, functional and metabolic potential encoded in bacteria genomes from these sediment communities?
+By studying these communities, I aimed to gain insights into the role of microbes in hydrothermal vent ecosystems and their potential for biotechnological applications.
 
 Find out more:
 
@@ -87,15 +88,16 @@ Find out more:
 <br>
 
 <span style="font-size:1.5vw;">
-**[Reconstructing genomes from microbes involved in oil degradation]{.underline}**
+**[Genome reconstruction of oil-degrading bacteria]{.underline}**
 </span>
 
+As part of my postdoctoral research, I conducted another project on identifying hydrocarbon degradation pathways in genomes from uncultured bacteria from water affected by the Deep Water Horizon Oil Spill. My research focused on the following questions:
 
-In another project, I identified hydrocarbon degradation pathways in genomes from uncultured bacteria from water affected by the Deep Water Horizon Oil Spill. My research questions were:
+- Which hydrocarbon-degrading bacteria were present during the Deepwater Horizon oil spill?
+- What are the pathways employed by these bacteria for oil degradation?
+- What genetic features do these bacteria possess that enable them to adapt quickly to a high oil input?
 
--   What were the hydrocarbon degrading bacteria that were present during the Deepwater Horizon oil spill
--   What pathways do these bacteria employ for oil-degradation?
--   What features can we find in their genomes that allow them quickly to adapt to a high oil input?
+Through reconstructing their genomes, we gained insight into the metabolic capabilities of these bacteria and their potential role in oil spill remediation.
 
 <p align="center">
 <img src="images/Oil_spill.png" width="50%"/>
@@ -115,16 +117,15 @@ Find out more:
 ### PhD
 
 <span style="font-size:1.5vw;">
-**[What microbes are found close to plant roots and how do they affect plant growth?]{.underline}**
+**[Investigating the Bacterial Microbiota in Plant Roots and Their Impact on Plant Growth]{.underline}**
 </span>
 
-I did my doctoral Research (2012-2015) in the [lab of Prof. Schulze-Lefert]((https://www.mpipz.mpg.de/schulze-lefert) ) at the Max-Planck-Institute for Plant Breeding Research in Cologne, Germany.
-Here, I worked on two main research topics:
+During my doctoral research (2012-2015) in the [lab of Prof. Schulze-Lefert]((https://www.mpipz.mpg.de/schulze-lefert) ) at the Max-Planck-Institute for Plant Breeding Research in Cologne, Germany, I focused on two main research topics related to bacterial microbiota in plant roots:
 
-1.  Analyse the structure and function  of the bacterial root microbiota of *Arabidopsis thaliana* and relative species. Here, I asked:
+1. Analyzing the structure and function of the bacterial root microbiota of *Arabidopsis thaliana* and relative species. Here, I aimed to answer:
 
--   What is the structure of bacterial communities found in natural soil, rhizosphere and plant roots of *Arabis alpina*, *Arabidopsis thaliana* and *Cardamine hirsuta*?
--   What are factors (i.e. environment, soil type, flowering, ...) that shape the assembly of bacterial communities?
+- What is the structure of bacterial communities found in natural soil, rhizosphere, and plant roots of *Arabis alpina*, *Arabidopsis thaliana*, and *Cardamine hirsuta*?
+- What factors (e.g., environment, soil type, flowering) shape the assembly of bacterial communities?
 
 Find out more:
 
@@ -137,11 +138,11 @@ Find out more:
 </p>
 
 
-2. Cultivate root-associated rhizobia and study their plant growth-promoting properties on *Arabidopsis thaliana*. 
+2. Cultivating root-associated rhizobia and studying their plant growth-promoting properties on *Arabidopsis thaliana*. My research questions were:
 
--   How diverse is the Rhizobia population found on roots of *Arabidopsis thaliana*?
--   What is the role of root-associated Rhizobia on plant growth?
--   How do Rhizobia affect the plant transcriptome?
+- How diverse is the rhizobia population found on the roots of *Arabidopsis thaliana*?
+- What is the role of root-associated rhizobia in plant growth?
+- How do rhizobia affect the plant transcriptome?
 
 <p align="center">
 <img src="images/growth_assay.png" width="50%"/>
@@ -158,14 +159,13 @@ Find out more:
 ### Masters
 
 <span style="font-size:1.5vw;">
-**[Studying auxin-inducible genes in *Arabidobsis thaliana*]{.underline}**
+**[Investigating Auxin-Inducible Genes in *Arabidopsis thaliana* Using Translating Ribosomal Affinity Purification (TRAP)]{.underline}**
 </span>
 
-I did my undergraduate Research (2010-2011) in the [QuintLab](https://quintlab.landw.uni-halle.de/team/) at the Leibniz Institute for Plant Biochemistry in Halle, Germany, and wrote my thesis on Ribosomal mRNA profiling of auxin-inducible genes in *Arabidopsis thaliana*.
+For my undergraduate research, I worked in the [QuintLab](https://quintlab.landw.uni-halle.de/team/) at the Leibniz Institute for Plant Biochemistry in Halle, Germany. My thesis focused on investigating auxin-inducible genes in *Arabidopsis thaliana* using the new experimental technique of translating ribosomal affinity purification (TRAP).
 
-Here, I:
+Specifically, I:
 
--   Established of translating ribosomal affinity purification (TRAP) as new experimental technique in order to isolate cell-type specific mRNA as well as development of new cell-type-specific maker lines
--   Investigated of the effect of auxin application on the expression of marker genes in different root-cell types
-
+- Established TRAP as a new experimental technique to isolate cell-type-specific mRNA, as well as developed new cell-type-specific marker lines.
+- Investigated the effect of auxin application on the expression of marker genes in different root-cell types.
 

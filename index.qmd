@@ -20,12 +20,14 @@ about:
 
 ---
 
-I am a postdoctoral researcher at the Royal Netherlands Institute for Sea Research (NIOZ) in the Netherlands. 
+Welcome to my homepage!  
 
-My general research focus is on the role of microbes in different environments, ranging from the soil, hydrothermal vents and the open ocean. In all environments on earth microbes play a key role in breaking down organic matter or driving different nutrient cycles, such as the carbon cycle. Despite their importance, many microbes can not be grown (and thus tested for their relevance) in the lab. I am specifically interested in such (so far) unculturable microbes and use computational approaches, such as metagenomics or phylogenomics, as techniques to characterize their genomes. 
+I am a bioinformatician at the Institute for Biodiversity and Ecosystem Dynamics (IBED) at the University of Amsterdam. I am using computational approaches to understand the role of micro- (and soon macro-) organisms in various environments such as the soil, hydrothermal vents and the open ocean. 
 
-Currently, I am studying a group of symbionts belonging to the DPANN archaea. DPANN archaea have very small genomes, most might rely on a host to be able to grow and very few of them can be grown together with their hosts in a laboratory setting. Therefore, little is known about their role in microbial food webs.
+Microbes play a crucial role in breaking down organic matter and driving nutrient cycles, such as the carbon cycle, in all environments on earth. However, many microbes cannot currently not be grown in the lab leading to many open question about their metabolism and their role in a given environment. During my work I use computational methods, such as metagenomics or phylogenomics, to characterize these organism based on their DNA alone.
 
-I obtained my PhD studying microbial communities associated with plants and looked at what kind of microbes can be found on the roots of different plant species and tested some of these microbes for plant growth-promoting activities.
+In addition to supporting scientists, I also develop tutorials for my students. You can find the material that I taught on my **[Github page](https://github.com/ndombrowski).**
 
-Most of this work is done using bioinformatic approaches (and I am rarely seen in the lab these days).  **As part of my research career I am developing tutorials for my students and you can also find some material from courses I taught [here](https://github.com/ndombrowski).**
+
+
+

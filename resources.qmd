@@ -4,20 +4,40 @@ toc: true
 toc-depth: 2
 ---
 
-Below you find the link to some tutorials I have created over the years:
 
-**Unix tutorials**
+## Teaching
 
-- An [introduction into the command line](https://ndombrowski.github.io/Unix_tutorial/) and the required [example files](https://github.com/ndombrowski/Unix_tutorial) in case you want to follow along.
-- An [introduction into awk](https://ndombrowski.github.io/AWK_tutorial/) and the required [example files](https://github.com/ndombrowski/AWK_tutorial) in case you want to follow along.
+Here are some general programming tutorials I have created that you might find useful:
+
+- [A tutorial on using UNIX and an HPC](https://ndombrowski.github.io/cli_workshop/)
+- [Getting started with the command line](https://ndombrowski.github.io/Unix_tutorial/#sed-manipulating-files) including [example files](https://github.com/ndombrowski/Unix_tutorial)
+- [An introduction to AWK](https://ndombrowski.github.io/AWK_tutorial/) with [example files](https://github.com/ndombrowski/AWK_tutorial)
+- [An R cookbook](https://ndombrowski.github.io/R_cookbook) with [example files](https://github.com/ndombrowski/R_cookbook)
+- [Data manipulation with dplyr](https://ndombrowski.github.io/Tidyverse_tutorial/)
+- [Data visualization with ggplot2](https://github.com/ndombrowski/Ggplot_tutorial)
+
+For biologists, I also have tutorials on:
+
+- [Assembling a metagenome](https://ndombrowski.github.io/Assembly_tutorial/)
+- [Genomic binning](https://ndombrowski.github.io/Binning_tutorial//index.html)
+- [Annotating microbial genomes](https://github.com/ndombrowski/Annotation_workflow)
+- [How to do phylogenetic analyses](https://ndombrowski.github.io/Phylogeny_tutorial/) with [example files](https://github.com/ndombrowski/Phylogeny_tutorial)
 
 
-**R tutorials**
+## Videos
 
-- [Introduction into R](https://ndombrowski.github.io/R_tutorial/). If you want to follow along, please also download any input files from [here](https://github.com/ndombrowski/R_tutorial)
-- [Introduction into the tidyverse](https://ndombrowski.github.io/Tidyverse_tutorial/)
+Here, you will find a lecture I gave as part of a workshop where I taught students about metagenomic assemblies, binning and annotations:
+
+{{< video https://youtu.be/2wwAmdqtSSc >}}
 
 
-**Other tutorials**
+A talk I gave at the UBC in April 2021 where I discuss how Undinarchaeota illuminate DPANN phylogeny and the impact of gene transfer on evolution:
 
-- [Introduction to phylogenomics](https://ndombrowski.github.io/Phylogeny_tutorial/). This tutorial includes a practical and theoretical part, if you want follow the practical part then you can find the material on [github](https://github.com/ndombrowski/Phylogeny_tutorial). 
+{{< video https://www.youtube.com/watch?v=6whnZfdFZTw&t=16s >}}
+
+
+Part of a workshop where I introduce students into Phylogenetics as part of the  ECOGEO 'Omics Training in 2016:
+
+{{< video https://www.youtube.com/watch?v=ErmJ2ISVBTo&t=3083s >}}
+
+

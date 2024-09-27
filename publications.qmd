@@ -12,6 +12,25 @@ See also:
 
 *shared first authors
 
+**2024**
+
+Moody ERR, Álvarez-Carretero S, Mahendrarajah TA, Clark JW, Betts HC, <u>Dombrowski N</u>, et al. The nature of the last universal common ancestor and its impact on the early Earth system. Nat Ecol Evol 2024; 8: 1654–1666. [Link to paper](https://www.nature.com/articles/s41559-024-02461-1)
+
+van Duijnhoven HJ, <u>Dombrowski N</u>, Kuperus P, Aires T, Coelho MAG, Silva J, et al. Draft genome of the marine bacterium Alteromonas gracilis strain J4 isolated from the green coenocytic alga Caulerpa prolifera. Microbiology Resource Announcements 2024; 13: e00184-24. [Link to paper](https://journals.asm.org/doi/full/10.1128/mra.00184-24)
+
+
+**2023**
+
+van der Gulik PTS, Egas M, Kraaijeveld K, <u>Dombrowski N</u>, Groot AT, Spang A, et al. On distinguishing between canonical tRNA genes and tRNA gene fragments in prokaryotes. RNA Biology 2023; 20: 48–58. [Link to paper](https://www.tandfonline.com/doi/full/10.1080/15476286.2023.2172370)
+
+Vaksmaa A, Polerecky L, <u>Dombrowski N</u> Kienhuis MVM, Posthuma I, Gerritse J, et al. Polyethylene degradation and assimilation by the marine yeast Rhodotorula mucilaginosa. ISME Communications 2023; 3: 68. [Link to paper](https://academic.oup.com/ismecommun/article/3/1/68/7584891)
+
+Mahendrarajah TA, Moody ERR, Schrempf D, Szánthó LL, <u>Dombrowski N</u>, Davín AA, et al. ATP synthase evolution on a cross-braced dated tree of life. Nat Commun 2023; 14: 7456. [Link to paper](https://www.nature.com/articles/s41467-023-42924-w)
+
+
+Eme L, Tamarit D, Caceres EF, Stairs CW, De Anda V, Schön ME, Seitz KW, <u>Dombrowski N</u>, et al. Inference and reconstruction of the heimdallarchaeial ancestry of eukaryotes. Nature 2023; 618: 992–999. [Link to paper](https://www.nature.com/articles/s41586-023-06186-2)
+
+
 **2022**
 
 Moody ER, Mahendrarajah TA, <u>Dombrowski N</u>, Clark JW, Petitjean C, Offre P, et al. An estimate of the deepest branches of the tree of life from ancient vertically evolving genes. eLife 2022; 11: e66695. [Link to paper](https://elifesciences.org/articles/66695)
