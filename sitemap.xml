@@ -1,35 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://ndombrowski.github.io/blog.html</loc>
-    <lastmod>2024-09-27T07:18:18.833Z</lastmod>
-  </url>
-  <url>
-    <loc>https://ndombrowski.github.io/contact.html</loc>
-    <lastmod>2024-09-27T07:18:19.306Z</lastmod>
-  </url>
-  <url>
-    <loc>https://ndombrowski.github.io/cv.html</loc>
-    <lastmod>2024-09-27T07:18:19.762Z</lastmod>
-  </url>
-  <url>
-    <loc>https://ndombrowski.github.io/index.html</loc>
-    <lastmod>2024-09-27T07:18:20.182Z</lastmod>
-  </url>
-  <url>
-    <loc>https://ndombrowski.github.io/posts/websites_with_quarto/index.html</loc>
-    <lastmod>2024-09-27T07:18:23.221Z</lastmod>
+    <loc>https://ndombrowski.github.io/resources.html</loc>
+    <lastmod>2024-09-27T07:15:32.169Z</lastmod>
   </url>
   <url>
     <loc>https://ndombrowski.github.io/projects.html</loc>
-    <lastmod>2024-09-27T07:18:23.744Z</lastmod>
+    <lastmod>2024-09-27T07:15:32.166Z</lastmod>
+  </url>
+  <url>
+    <loc>https://ndombrowski.github.io/index.html</loc>
+    <lastmod>2025-02-12T11:44:19.327Z</lastmod>
+  </url>
+  <url>
+    <loc>https://ndombrowski.github.io/contact.html</loc>
+    <lastmod>2025-02-12T11:43:38.559Z</lastmod>
+  </url>
+  <url>
+    <loc>https://ndombrowski.github.io/blog.html</loc>
+    <lastmod>2024-09-27T07:15:31.567Z</lastmod>
+  </url>
+  <url>
+    <loc>https://ndombrowski.github.io/cv.html</loc>
+    <lastmod>2024-09-27T07:15:31.571Z</lastmod>
+  </url>
+  <url>
+    <loc>https://ndombrowski.github.io/posts/websites_with_quarto/index.html</loc>
+    <lastmod>2024-09-27T07:15:32.139Z</lastmod>
   </url>
   <url>
     <loc>https://ndombrowski.github.io/publications.html</loc>
-    <lastmod>2024-09-27T07:18:24.227Z</lastmod>
-  </url>
-  <url>
-    <loc>https://ndombrowski.github.io/resources.html</loc>
-    <lastmod>2024-09-27T07:18:24.661Z</lastmod>
+    <lastmod>2024-09-27T07:15:32.167Z</lastmod>
   </url>
 </urlset>
