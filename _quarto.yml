@@ -22,9 +22,15 @@ website:
         href: https://www.linkedin.com/in/nina-dombrowski-nd01/
       - text: "{{< iconify fa6-brands:bluesky >}}"
         href: https://bsky.app/profile/ndombrowski.bsky.social
+  page-footer: 
+    background: light
+    left: Coyright 2025, Nina Dombrowski
+    right: This website is built with [{{< fa brands github title="GitHub octocat logo" >}}](https://github.com/ndombrowski/ndombrowski.github.io){target=_blank}, and [Quarto](https://quarto.org/){target=_blank}
+
 format:
   html:
     theme: theme.scss
+    mainfont: "Noto Sans"
 
 execute:
   eval: false

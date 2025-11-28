@@ -1,7 +1,5 @@
 /*-- scss:defaults --*/
-
 //https://github.com/twbs/bootstrap/blob/main/scss/_variables.scss
-
 $white:    #fff !default;
 $gray-100: #f8f9fa !default;
 $gray-200: #e9ecef !default;
@@ -13,32 +11,35 @@ $gray-700: #495057 !default;
 $gray-800: #343a40 !default;
 $gray-900: #212529 !default;
 $black:    #000 !default;
-
-// Navbar colors
-
+$dark-green: #858E79;
+$light-green: #D1D9CE;
+$cream: #FDFBF7;
+$gray: #64605f;
+$purple: #9158A2;
+$orange: #ad7237;
 $primary: #1A5276  !default;
-
-// Links
-
 $link-color: #0E86D4 !default;
+$teal: #1A5276; 
 
 // Fonts
-
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans:ital,wght@0,100..900;1,100..900&family=Nunito+Sans:ital,opsz,wght@0,6..12,200..1000;1,6..12,200..1000&family=Open+Sans:ital,wght@0,300..800;1,300..800&family=Outfit:wght@100..900&family=Roboto:ital,wght@0,100..900;1,100..900&family=Sen:wght@400..800&display=swap');
 $font-family-base: "Segoe UI", Roboto, "Helvetica Neue", "Noto Sans", "Liberation Sans", Arial, sans-serif !default;
 $headings-font-family: "Segoe UI", Roboto, "Helvetica Neue", "Noto Sans", "Liberation Sans", Arial, sans-serif !default;
 $body-color: $gray-900 !default;
 $body-text-align:           justify !default;
 
+// Base document colors
+$navbar-bg: $teal;
+$footer-bg: $teal;
 
 /*-- scss:rules --*/
 
-//define <div class = "important">
 
+//define <div class = "important">
 div.highlight {
     background-color: #E74C3C;
     color: $white;
 }
-
 
 figcaption.center {
     text-align: center;

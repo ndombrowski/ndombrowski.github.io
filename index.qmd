@@ -16,16 +16,19 @@ about:
       href: https://www.linkedin.com/in/nina-dombrowski-nd01/
     - text: "{{< iconify fa6-brands:bluesky >}} Bluesky"
       href: https://bsky.app/profile/ndombrowski.bsky.social
+    - icon: envelope
+      text: Email
+      href: mailto:n.dombrowski@uva.nl
 
 ---
 
-Welcome to my homepage!  
+</br>
 
-I am working as a bioinformatician at the Institute for Biodiversity and Ecosystem Dynamics (IBED) at the University of Amsterdam. 
+Hi everyone! I am a bioinformatician working at the Institute for Biodiversity and Ecosystem Dynamics (IBED) at the University of Amsterdam. 
 
 My role involves supporting scientists, postdocs, and PhDs at IBED in analyzing their bioinformatic data. Here, my work focuses on metagenomics, metatranscriptomics, phylogenomics and amplicon data analysis. If you want to have an overview about the projects I was involved in, have a look at my [Projects page](https://ndombrowski.github.io/projects.html).
 
-In addition to supporting scientists, I also develop tutorials for my students. You can find the material that I taught on my **[Github page](https://github.com/ndombrowski).**
+In addition to supporting scientists, I am also involved in teaching and developing tutorial. You can find the material that I taught on my **[Github page](https://github.com/ndombrowski).**
 
 
 
