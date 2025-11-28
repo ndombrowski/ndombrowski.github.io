@@ -1,37 +1,42 @@
 ---
 title: "Projects"
 toc: true
-toc-depth: 2
+toc-depth: 3
 ---
 
-## Current work as bioinformatician at the University of Amsterdam
+# Current work
 
-I am currently working as bioinformatician at the [Institute for Biodiversity and Ecosystem Dynamics (IBED)](https://ibed.uva.nl/) at the [University of Amsterdam](https://www.uva.nl/en). 
+I am a bioinformatician at the [Institute for Biodiversity and Ecosystem Dynamics (IBED)](https://ibed.uva.nl/) at the [University of Amsterdam](https://www.uva.nl/en), where I bridge the gap between biology and computer science. As part of the [IBED Computational Support Team](https://ibed.uva.nl/facilities/computational-facilities/ibed-computational-support-team/ibed-computational-support-team.html) I support scientists, postdocs, and students in analyzing bioinformatic data and advancing their research projects.
 
-My role is to bridge the intersection of biology and computer science and to guide and support scientists, postdocs, and PhD students in the bioinformatic analysis of their data. I am doing this as member of the [IBED Computational Support Team](https://ibed.uva.nl/facilities/computational-facilities/ibed-computational-support-team/ibed-computational-support-team.html).
+**Areas of expertise:**
 
-My areas of expertise (see also below for a more detailed description) include amplicon sequencing, metagenomics as well as phylogenomics. Additionally, I am adept in using R and Python to analyse computational data.
+- Sequence data analysis: Metagenomics, Metratranscriptomics, Amplicon sequencing
+- Programming expertise: Bash, R and python
+- Research support: From experimental design to troubleshooting and data interpretation
+
+
+## Examples of my work 
+
+- Teaching: In the Microbial Ecology course, I guide students through the analysis of long-read amplicon sequencing data, teaching them best practices in coding and data interpretation
+- Research:  I analyze transcriptomic datasets to, for example, study the interaction between photosynthesis and phagocytosis in marine mixotrophs. I also develop and test workflows for microbial genome assembly, such as for [Alteromonas gracilis](https://journals.asm.org/doi/full/10.1128/mra.00184-24?rfr_dat=cr_pub++0pubmed&url_ver=Z39.88-2003&rfr_id=ori%3Arid%3Acrossref.org))
+- Resource development: I manage the [IBED bioinformatics website](https://scienceparkstudygroup.github.io/ibed-bioinformatics-page/), which provides a list of resources and tutorials for researchers and students.
 
 
 
-## Postdoc at the NIOZ (Netherlands)
+# Postdoc work
 
-<span style="font-size:1.5vw;">
-**[Exploring the hidden world of DPANN archaea using metagenomic approaches]{.underline}**
-</span>
+## Exploring DPANN archaea using metagenomics
 
-As a Postdoctoral researcher at the Royal Netherlands Institute for Sea Research (NIOZ) in the Netherlands, I was working in the lab of [Dr. Anja Spang](https://www.nioz.nl/en/about/organisation/staff/anja-spang).
+During my work as Postdoctoral researcher at the Royal Netherlands Institute for Sea Research (NIOZ) in the Netherlands, I was working in the lab of [Dr. Anja Spang](https://www.nioz.nl/en/about/organisation/staff/anja-spang).
 
-My research focused on using metagenomic approaches to investigate archaea, one of the main divisions of life alongside Bacteria and Eukaryotes. Archaea live in a variety of habitats on Earth, including soils, sediments, marine and freshwater environments, and even the human gut.
-
-Through metagenomics, we can sequence DNA directly from environmental samples and reconstruct genomes from uncultivated organisms. This technique has revealed the diversity of microbial life and the roles of these organisms in their habitats. In particular, the DPANN archaeal superphylum contains a large diversity of putative symbiotic organisms, many of which have small genomes and limited metabolic capabilities, suggesting that they rely on other microbes for growth and survival. The few DPANN archaea that have been cultivated are likely obligate symbionts or parasites.
+During this project, I used metagenomic approaches to study the diversity and metabolic potential of archaea, one of the main divisions of life alongside Bacteria and Eukaryotes. Through metagenomics, we can sequence DNA directly from environmental samples and reconstruct genomes from uncultivated organisms. This technique has revealed the diversity of microbial life and the roles of these organisms in their habitats. In particular, the DPANN archaeal superphylum contains a large diversity of putative symbiotic organisms, many of which have small genomes and limited metabolic capabilities, suggesting that they rely on other microbes for growth and survival. The few DPANN archaea that have been cultivated are likely obligate symbionts or parasites.
 
 <p align="center">
 <img src="images/Binning.png" width="50%"/>
 <figcaption class = "center">Going from DNA to reads to contigs to genomes</figcaption>
 </p>
 
-My research focused on gaining insights into the biology and evolution of DPANN archaea. Specifically, I am interested in understanding the diversity of DPANN archaea in marine environments, developing approaches to identify the interaction partners of DPANN archaea, and finding the position of DPANN in the archaeal tree of life. This will help to address the question of whether symbiosis evolved early in the archaeal domain.
+My research focused on gaining insights into the biology and evolution of DPANN archaea. Specifically, I was interested in understanding the diversity of DPANN archaea in marine environments, developing approaches to identify the interaction partners of DPANN archaea, and finding the position of DPANN in the archaeal tree of life. This will help to address the question of whether symbiosis evolved early in the archaeal domain.
 
 <p align="center">
 <img src="images/undinarchaeota.png" width="90%"/>
@@ -40,20 +45,16 @@ My research focused on gaining insights into the biology and evolution of DPANN 
 
 Find out more:
 
-- [Genomic diversity, lifestyles and evolutionary origins of DPANN archaea](https://pubmed.ncbi.nlm.nih.gov/30629179/)
-- [Talking about a novel phylum in the DPANN archaea](https://www.youtube.com/watch?v=6whnZfdFZTw)
+- [Genomic diversity, lifestyles and evolutionary origins of DPANN archaea](https://pmc.ncbi.nlm.nih.gov/articles/PMC6349945/)
+- [Discovery of the Undinarchaeota, a novel phylum in the DPANN archaea](https://www.nature.com/articles/s41467-020-17408-w)
 
 <br>
 
-<span style="font-size:1.5vw;">
-**[Investigating Microbial Diversity and Nutrient Dependencies in the Black Sea]{.underline}**
-</span>
+## Microbial Diversity in the Black Sea
 
-As a postdoctoral researcher at the Royal Netherlands Institute for Sea Research (NIOZ), I also investigated microbial communities in the Black Sea using metagenomic approaches. This stratified and anaerobic marine environment provides stable conditions that make it an ideal study site.
+Another project I pursued as postdoctoral researcher at the Royal Netherlands Institute for Sea Research (NIOZ), involved studying microbial communities in the Black Sea using metagenomic approaches. This stratified and anaerobic marine environment provides stable conditions that make it an ideal study site.
 
-Through this research line, we aim to compare microbial communities at different depths and untangle the nutrient interdependencies of microbes in both the water column and sediment. Our preliminary data has revealed that DPANN archaea are extremely diverse and abundant in the Black Sea. As such, we are working to build methods to predict the host of these DPANN archaea based on sequencing data.
-
-By understanding the microbial diversity and nutrient dependencies in the Black Sea, we hope to gain a better understanding of how these microorganisms interact with their environment and contribute to global biogeochemical cycles.
+In this project, I compared microbial communities at different depths and untangled the nutrient interdependencies of microbes in both the water column and sediment. Our preliminary data has revealed that DPANN archaea are extremely diverse and abundant in the Black Sea. By understanding the microbial diversity and nutrient dependencies in the Black Sea, we hope to gain a better understanding of how these microorganisms interact with their environment and contribute to global biogeochemical cycles.
 
 <p align="center">
 <img src="images/IMG_3162.jpg" width="50%"/>
@@ -62,18 +63,13 @@ By understanding the microbial diversity and nutrient dependencies in the Black 
 
 <br>
 
-## Postdoc at the University of Texas (USA)
 
-<span style="font-size:1.5vw;">
-**[Investigating the Diversity and Metabolic Potential of Hydrothermal Vent-Associated Microbes]{.underline}**
-</span>
+## Diversity and metabolic potential of hydrothermal vent-associated microbes
 
-During my postdoctoral work at the Marine Science Institute (University of Texas) in the [lab of Dr. Brett Baker](https://sites.utexas.edu/baker-lab/) I focused on understanding the diversity and metabolic potential of microbes found in hydrothermal vent sediments. By reconstructing microbial genomes and analyzing their metabolic capabilities, I aimed to answer two key questions:
+During my postdoctoral work at the Marine Science Institute (MSI, University of Texas) in the [lab of Dr. Brett Baker](https://sites.utexas.edu/baker-lab/) I focused on understanding the diversity and metabolic potential of microbes found in hydrothermal vent sediments. By reconstructing microbial genomes and analyzing their metabolic capabilities, I aimed to answer two key questions:
 
 - How diverse are the microbial communities found in Guaymas Basin deep-sea hydrothermal vent sediments?
 - What is the genetic, functional, and metabolic potential encoded in the bacterial genomes from these sediment communities?
-
-By studying these communities, I aimed to gain insights into the role of microbes in hydrothermal vent ecosystems and their potential for biotechnological applications.
 
 Find out more:
 
@@ -87,11 +83,9 @@ Find out more:
 
 <br>
 
-<span style="font-size:1.5vw;">
-**[Genome reconstruction of oil-degrading bacteria]{.underline}**
-</span>
+## Genome reconstruction of oil-degrading bacteria
 
-As part of my postdoctoral research, I conducted another project on identifying hydrocarbon degradation pathways in genomes from uncultured bacteria from water affected by the Deep Water Horizon Oil Spill. My research focused on the following questions:
+As part of my postdoctoral research at the MSI, I conducted another project on identifying hydrocarbon degradation pathways in genomes from uncultured bacteria from water affected by the Deep Water Horizon Oil Spill. My research focused on the following questions:
 
 - Which hydrocarbon-degrading bacteria were present during the Deepwater Horizon oil spill?
 - What are the pathways employed by these bacteria for oil degradation?
@@ -112,13 +106,9 @@ Find out more:
 
 <br>
 
-## Previous Research
+# Previous Research
 
-### PhD
-
-<span style="font-size:1.5vw;">
-**[Investigating the Bacterial Microbiota in Plant Roots and Their Impact on Plant Growth]{.underline}**
-</span>
+### Investigating plant-associated microbes
 
 During my doctoral research (2012-2015) in the [lab of Prof. Schulze-Lefert]((https://www.mpipz.mpg.de/schulze-lefert) ) at the Max-Planck-Institute for Plant Breeding Research in Cologne, Germany, I focused on two main research topics related to bacterial microbiota in plant roots:
 
@@ -156,11 +146,7 @@ Find out more:
 <br>
 
 
-### Masters
-
-<span style="font-size:1.5vw;">
-**[Investigating Auxin-Inducible Genes in *Arabidopsis thaliana* Using Translating Ribosomal Affinity Purification (TRAP)]{.underline}**
-</span>
+## Investigating auxin-inducible genes in *Arabidopsis thaliana* 
 
 For my undergraduate research, I worked in the [QuintLab](https://quintlab.landw.uni-halle.de/team/) at the Leibniz Institute for Plant Biochemistry in Halle, Germany. My thesis focused on investigating auxin-inducible genes in *Arabidopsis thaliana* using the new experimental technique of translating ribosomal affinity purification (TRAP).
 

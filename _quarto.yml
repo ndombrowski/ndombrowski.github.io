@@ -18,10 +18,10 @@ website:
       - contact.qmd
       - icon: github
         href: https://github.com/ndombrowski
-      - icon: twitter
-        href: https://twitter.com/n_dombrowski
       - icon: linkedin
         href: https://www.linkedin.com/in/nina-dombrowski-nd01/
+      - text: "{{< iconify fa6-brands:bluesky >}}"
+        href: https://bsky.app/profile/ndombrowski.bsky.social
 format:
   html:
     theme: theme.scss

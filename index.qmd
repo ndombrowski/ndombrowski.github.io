@@ -6,25 +6,24 @@ format:
     page-layout: full
 about:
   template: trestles
-  image-width: 15em
+  image-width: 10em
   links:
-    - icon: twitter
-      text: Twitter
-      href: https://twitter.com/n_dombrowski
-    - icon: linkedin
-      text: LinkedIn
-      href: https://www.linkedin.com/in/nina-dombrowski-nd01/
     - icon: github
       text: Github
       href: https://github.com/ndombrowski
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/nina-dombrowski-nd01/
+    - text: "{{< iconify fa6-brands:bluesky >}} Bluesky"
+      href: https://bsky.app/profile/ndombrowski.bsky.social
 
 ---
 
 Welcome to my homepage!  
 
-I am a bioinformatician at the Institute for Biodiversity and Ecosystem Dynamics (IBED) at the University of Amsterdam. I am using computational approaches to understand the role of micro- (and soon macro-) organisms in various environments such as the soil, hydrothermal vents and the open ocean. 
+I am working as a bioinformatician at the Institute for Biodiversity and Ecosystem Dynamics (IBED) at the University of Amsterdam. 
 
-Microbes play a crucial role in breaking down organic matter and driving nutrient cycles, such as the carbon cycle, in all environments on earth. However, many microbes cannot currently not be grown in the lab leading to many open question about their metabolism and their role in a given environment. During my work I use computational methods, such as metagenomics or phylogenomics, to characterize these organism based on their DNA alone.
+My role involves supporting scientists, postdocs, and PhDs at IBED in analyzing their bioinformatic data. Here, my work focuses on metagenomics, metatranscriptomics, phylogenomics and amplicon data analysis. If you want to have an overview about the projects I was involved in, have a look at my [Projects page](https://ndombrowski.github.io/projects.html).
 
 In addition to supporting scientists, I also develop tutorials for my students. You can find the material that I taught on my **[Github page](https://github.com/ndombrowski).**
 
