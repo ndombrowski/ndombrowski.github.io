@@ -1,5 +1,5 @@
 ---
-title: "Blog"
+title: "{{< fa book-open >}} Blog"
 description: Blogging about data science projects
 author: Nina Dombrowski
 

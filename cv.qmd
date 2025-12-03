@@ -1,6 +1,6 @@
 
 ---
-title: "CV"
+title: "{{< fa list >}} CV"
 about:
   template: solana
 
@@ -52,6 +52,12 @@ International Max Planck Research School IMPRS Fellowship
 
 
 ## TEACHING & OUTREACH
+
+**2025**
+
+Lecturer at the Microbial Ecology BSc course at the University of Amsterdam
+
+Lecturer in the Big Biological Data Analysis MSc Course at the University of Amsterdam
 
 
 **2022**

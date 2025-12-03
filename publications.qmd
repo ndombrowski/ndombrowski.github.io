@@ -1,5 +1,5 @@
 ---
-title: "Publications"
+title: "{{< fa newspaper >}} Publications"
 ---
 
 See also: 
@@ -12,7 +12,16 @@ See also:
 
 *shared first authors
 
+**2025**
+
+Huang WC, <u>Dombrowski N</u>, Mahendrarajah TA, Wahl N, Stamatakis A, Szöllősi GJ, et al. Phylogenetic reconciliation supports a methanogenic ancestor of the Archaea and a derived origin for host-associated lineages. bioRxiv; 2025 p. 2025.11.11.687807. [Link to paper](https://www.biorxiv.org/content/10.1101/2025.11.11.687807v1)
+
+Hamm JN, Dombrowski N, Valentin-Alvarado LE, Greening C, Williams TA, Spang A. Caliditerrarchaeota, a new sister to Nanohaloarchaeota, provides insights into the evolution of DPANN halophily. bioRxiv; 2025. p. 2025.08.05.668663. [Link to paper](https://www.biorxiv.org/content/10.1101/2025.08.05.668663v1 )  
+
+
 **2024**
+
+Hamm JN, Liao Y, von Kügelgen A, <u>Dombrowski N<u/>, Landers E, Brownlee C, et al. The parasitic lifestyle of an archaeal symbiont. Nat Commun. 2024 July 31;15(1):6449. [Link to paper](https://www.nature.com/articles/s41467-024-49962-y) 
 
 Moody ERR, Álvarez-Carretero S, Mahendrarajah TA, Clark JW, Betts HC, <u>Dombrowski N</u>, et al. The nature of the last universal common ancestor and its impact on the early Earth system. Nat Ecol Evol 2024; 8: 1654–1666. [Link to paper](https://www.nature.com/articles/s41559-024-02461-1)
 

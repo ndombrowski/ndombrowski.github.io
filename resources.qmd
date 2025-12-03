@@ -1,11 +1,16 @@
 ---
-title: "Resources"
+title: "{{< fa chalkboard-user >}} Resources"
 toc: true
 toc-depth: 2
 ---
 
 
 ## Teaching
+
+Here the links to the courses I have given in the past:
+
+- [Microbial Ecology: Sequence Data Analysis](https://ndombrowski.github.io/MicEco2025/)
+- [Big Biological Data: De novo transcriptomics](https://github.com/ndombrowski/BBDA_2025_material/tree/main)
 
 Here are some general programming tutorials I have created that you might find useful:
 

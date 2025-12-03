@@ -7,25 +7,30 @@ website:
     title: false
     pinned: true
     left:
-      - text: "Nina Dombrowski"
+      - text: "{{< fa user >}} Nina Dombrowski"
         file: index.qmd
     right:
-      - blog.qmd
       - projects.qmd
-      - cv.qmd
+      - href: images/cv.pdf
+        text: "{{< fa paperclip >}} CV"
+        target: _blank
       - publications.qmd
       - resources.qmd
+      - blog.qmd
       - contact.qmd
       - icon: github
         href: https://github.com/ndombrowski
+        target: _blank
       - icon: linkedin
         href: https://www.linkedin.com/in/nina-dombrowski-nd01/
+        target: _blank
       - text: "{{< iconify fa6-brands:bluesky >}}"
         href: https://bsky.app/profile/ndombrowski.bsky.social
+        target: _blank
   page-footer: 
     background: light
     left: Coyright 2025, Nina Dombrowski
-    right: This website is built with [{{< fa brands github title="GitHub octocat logo" >}}](https://github.com/ndombrowski/ndombrowski.github.io){target=_blank}, and [Quarto](https://quarto.org/){target=_blank}
+    right: This website is built with [{{< fa brands github title="GitHub octocat logo" >}}](https://github.com/ndombrowski/ndombrowski.github.io){target=_blank} and [Quarto](https://quarto.org/){target=_blank}
 
 format:
   html:

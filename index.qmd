@@ -22,14 +22,8 @@ about:
 
 ---
 
-</br>
-
 Hi everyone! I am a bioinformatician working at the Institute for Biodiversity and Ecosystem Dynamics (IBED) at the University of Amsterdam. 
 
-My role involves supporting scientists, postdocs, and PhDs at IBED in analyzing their bioinformatic data. Here, my work focuses on metagenomics, metatranscriptomics, phylogenomics and amplicon data analysis. If you want to have an overview about the projects I was involved in, have a look at my [Projects page](https://ndombrowski.github.io/projects.html).
+My role involves supporting scientists, postdocs, PhDs and students at IBED in analyzing their bioinformatic data. My work focuses on metagenomics, metatranscriptomics, phylogenomics and amplicon data analysis. If you want to have an overview about the projects I was involved in, have a look at my [Projects page](https://ndombrowski.github.io/projects.html).
 
-In addition to supporting scientists, I am also involved in teaching and developing tutorial. You can find the material that I taught on my **[Github page](https://github.com/ndombrowski).**
-
-
-
-
+In addition to supporting scientists, I am also involved in teaching and developing tutorials. You can find the material that I taught on my **[Github page](https://github.com/ndombrowski).**
